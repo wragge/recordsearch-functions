@@ -13,12 +13,14 @@ def write_csv(function=None):
         query = {}
     functions = db.functions.find(query)
     for func in functions:
-        filename = 'data/{}.csv'.format(func['function'].lower())
+        filename = 'data/{}.csv'.format(func['function'].lower().replace(' ', '_'))
         with open(filename, 'wb') as functions_file:
             functions_csv = csv.writer(functions_file)
             functions_csv.writerow([
                 'agency_id',
                 'agency_title',
+                'agency_status',
+                'location',
                 'agency_start',
                 'agency_end',
                 'function_start',
@@ -28,6 +30,8 @@ def write_csv(function=None):
                 functions_csv.writerow([
                     agency['agency_id'],
                     agency['title'],
+                    agency['agency_status'],
+                    agency['location'],
                     convert_date_to_iso(agency['start_date']),
                     convert_date_to_iso(agency['end_date']),
                     convert_date_to_iso(agency['function_start']),

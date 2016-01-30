@@ -51,6 +51,8 @@ class FunctionHarvester():
             for result in response['results']:
                 print result['agency_id']
                 agency = {'agency_id': result['agency_id'], 'title': result['title']}
+                agency['agency_status'] = result['agency_status']
+                agency['location'] = result['location']
                 agency['start_date'] = result['dates']['start_date']
                 agency['end_date'] = result['dates']['end_date']
                 for function in result['functions']:
