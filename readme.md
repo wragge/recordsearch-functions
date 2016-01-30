@@ -34,7 +34,7 @@ Assuming you're in the `recordsearch-functions` directory, just:
 
 * Start up Python, or preferably iPython -- `ipython`
 * Import the harvest module -- `import harvest_functions`
-* Set up a harvester instance, supplying the name of the function you want to harvest, eg. MIGRATION -- `harvester = harvest_functions.FunctionHarvester(function='MIGRATION')
+* Set up a harvester instance, supplying the name of the function you want to harvest, eg. MIGRATION -- `harvester = harvest_functions.FunctionHarvester(function='MIGRATION')`
 * If everything's working you'll see the number of agencies that are going to be harvested, and the number of results pages that will be processed.
 * Then just start the harvest -- `harvester.start_harvest()`
 
