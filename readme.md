@@ -6,7 +6,7 @@ See here for a [list of the functions](https://github.com/wragge/recordsearch-fu
 
 ## Requirements
 
-To set up your own harvest you'll need my RecordSearch Tools repository. Just `git clone` it into your working directory. A list of other requirements is here.
+To set up your own harvest you'll need my [RecordSearch Tools repository](https://github.com/wragge/recordsearch_tools). Just `git clone` it into your working directory. A list of [other requirements is here](https://github.com/wragge/recordsearch-functions/blob/master/requirements.txt).
 
 ## Setting things up
 
@@ -23,7 +23,7 @@ Assuming you have Python, Git, Pip and Virtualenv installed, and you know how to
 The harvester is expecting to save data to a MongoDB database hosted by [MongoLab](https://mongolab.com/). You can set up a sandbox database for free. Once you've created your database, you'll need to add a user who can access it. Then just:
 
 * Copy the MongoDB URI from your database's control panel to the `credentials_blank.py` file.
-* Replace `<dbuser>` and `<dbpassword>` in the URI with your user's details. 
+* Replace `<dbuser>` and `<dbpassword>` in the URI with your database user's details. 
 * Rename `credentials_blank.py` to `credentials.py`.
 
 Of course you can change this to point to a local MongoDB instance, or anywhere else really.
@@ -44,8 +44,8 @@ All there is so far is a function to save a summary of the agencies associated w
 
 * Start up Python, or preferably iPython -- `ipython`
 * Import the analyse module -- `import analyse_functions`
-* Create a CSV file for a single function, eg. MIGRATION -- `analyse.functions.write_csv('MIGRATION')`
-* Create CSV files for all harvested functions -- `analyse.functions.write_csv()`
+* Create a CSV file for a single function, eg. MIGRATION -- `analyse_functions.write_csv('MIGRATION')`
+* Create CSV files for all harvested functions -- `analyse_functions.write_csv()`
 
 Look in the [data](https://github.com/wragge/recordsearch-functions/tree/master/data) directory for some example CSV files.
 
