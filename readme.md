@@ -83,7 +83,7 @@ Note that this uses [Plot.ly](http://plot.ly) to generate the charts. You'll hav
 
 Here's the result:
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~wragge/384.embed"></iframe>
+[![](https://dl.dropbox.com/s/tatks4mk7qgcvzc/agencies-migration-department_of_state-2016-01-31.png)](https://plot.ly/~wragge/384/commonwealth-agencies-department-of-state-associated-with-the-function-migration/)
 
 
 
