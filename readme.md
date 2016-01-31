@@ -40,7 +40,7 @@ Assuming you're in the `recordsearch-functions` directory, just:
 
 ## Analysing the harvested data
 
-All there is so far is a function to save a summary of the agencies associated with a particular function to a CSV file:
+Save a summary of the agencies associated with a particular function to a CSV file:
 
 * Start up Python, or preferably iPython -- `ipython`
 * Import the analyse module -- `import analyse_functions`
@@ -49,6 +49,41 @@ All there is so far is a function to save a summary of the agencies associated w
 
 Look in the [data](https://github.com/wragge/recordsearch-functions/tree/master/data) directory for some example CSV files.
 
+Aggregate agencies associated with a particular function by their status, eg. 'Department of State', or 'Head Office':
+
+* Start up Python, or preferably iPython -- `ipython`
+* Import the analyse module -- `import analyse_functions`
+* Aggregate agencies for a single function, eg. 'INTERNAL SECURITY' -- `analyse_functions.calculate_status_totals('INTERNAL SECURITY')`
+
+The results look something like this:
+
+```python
+[
+    {u'agency_status': u'Regional or State Office', u'total': 22},
+    {u'agency_status': u'Head Office', u'total': 10},
+    {u'agency_status': u'Local Office', u'total': 1},
+    {u'agency_status': u'Judicial Court or Tribunal', u'total': 1},
+    {u'agency_status': u'Department of State', u'total': 1}
+]
+ ```
+
+Retrieve a list of agencies by function and agency status:
+
+* Start up Python, or preferably iPython -- `ipython`
+* Import the analyse module -- `import analyse_functions`
+* Retrieve agencies with a particular status, associated with a specific function -- `analyse_functions.get_agencies('MIGRATION', status='Department of State')`
+
+Plot a list of agencies by function and agency status:
+
+* Start up Python, or preferably iPython -- `ipython`
+* Import the analyse module -- `import analyse_functions`
+* Retrieve agencies with a particular status, associated with a specific function -- `analyse_functions.plot_agencies('MIGRATION', status='Department of State')`
+
+Note that this uses [Plot.ly](http://plot.ly) to generate the charts. You'll have to sign up for a free account and installed the necessary Python modules.
+
+Here's the result:
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~wragge/384.embed"></iframe>
 
 
 

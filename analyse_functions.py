@@ -22,7 +22,7 @@ def calculate_status_totals(function):
     ]
     return list(db.functions.aggregate(pipeline))
 
-def get_agencies(function, status=None, location=None):
+def get_agencies(function, status):
     dbclient = MongoClient(MONGOLAB_URL)
     db = dbclient.get_default_database()
     pipeline = [
@@ -34,9 +34,8 @@ def get_agencies(function, status=None, location=None):
     agencies = list(db.functions.aggregate(pipeline))[0]['agencies']
     return sorted(agencies, key=itemgetter('function_start'))
 
-def plot_agencies(function, status=None, location=None):
-    agencies = get_agencies(function, status=status, location=location)
-    number = len(agencies)
+def plot_agencies(function, status):
+    agencies = get_agencies(function=function, status=status)
     traces = []
     annotations = []
     agency_legend = False
