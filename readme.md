@@ -73,13 +73,71 @@ Retrieve a list of agencies by function and agency status:
 * Import the analyse module -- `import analyse_functions`
 * Retrieve agencies with a particular status, associated with a specific function -- `analyse_functions.get_agencies('MIGRATION', status='Department of State')`
 
+The result is a list of agencies, something like this:
+
+```python
+[
+    {
+        u'agency_id': u'CA 9152',
+        u'agency_status': u'Department of State',
+        u'end_date': {
+            u'date': datetime.datetime(2013, 9, 18, 0, 0),
+            u'day': True,
+            u'month': True
+            },
+        u'function_end': {
+            u'date': datetime.datetime(2013, 9, 18, 0, 0),
+            u'day': True,
+            u'month': True
+            },
+        u'function_start': {
+            u'date': datetime.datetime(2007, 1, 30, 0, 0),
+            u'day': True,
+            u'month': True},
+        u'location': u'Australian Capital Territory',
+        u'start_date': {
+            u'date': datetime.datetime(2007, 1, 30, 0, 0),
+            u'day': True,
+            u'month': True
+            },
+        u'title': u'Department of Immigration and Citizenship, Central Office'
+    },
+    {
+        u'agency_id': u'CA 9431',
+        u'agency_status': u'Department of State',
+        u'end_date': {
+            u'date': None, 
+            u'day': False, 
+            u'month': False
+            },
+        u'function_end': {
+            u'date': None, 
+            u'day': False, 
+            u'month': False
+            },
+        u'function_start': {
+            u'date': datetime.datetime(2013, 9, 18, 0, 0),
+            u'day': True,
+            u'month': True
+            },
+        u'location': u'Australian Capital Territory',
+        u'start_date': {
+            u'date': datetime.datetime(2013, 9, 18, 0, 0),
+            u'day': True,
+            u'month': True
+            },
+        u'title': u'Department of Immigration and Border Protection, Central Office'
+    }
+]
+```
+
 Plot a list of agencies by function and agency status:
 
 * Start up Python, or preferably iPython -- `ipython`
 * Import the analyse module -- `import analyse_functions`
 * Retrieve agencies with a particular status, associated with a specific function -- `analyse_functions.plot_agencies('MIGRATION', status='Department of State')`
 
-Note that this uses [Plot.ly](http://plot.ly) to generate the charts. You'll have to sign up for a free account and installed the necessary Python modules.
+Note that this uses [Plot.ly](http://plot.ly) to generate the charts. You'll have to sign up for a free account and install the necessary Python modules.
 
 Here's the result:
 
