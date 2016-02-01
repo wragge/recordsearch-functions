@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from pymongo import MongoClient
 from pymongo.errors import DuplicateKeyError
 from credentials import MONGOLAB_URL
@@ -178,9 +180,10 @@ def write_csv(function=None):
                 'function_end'
                 ])
             for agency in func['agencies']:
+                print agency['title']
                 functions_csv.writerow([
                     agency['agency_id'],
-                    agency['title'],
+                    agency['title'].replace(u'\u2013', '-'),
                     agency['agency_status'],
                     agency['location'],
                     convert_date_to_iso(agency['start_date']),
