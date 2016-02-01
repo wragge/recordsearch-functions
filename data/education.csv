@@ -1,0 +1,295 @@
+agency_id,agency_title,agency_status,location,agency_start,agency_end,function_start,function_end
+CA 32,"Department of Social Services [I], Central Office",Department of State,"Australian Capital Territory, Victoria",1939-04-26,1972-12-19,1947-03-12,1950-11-16
+CA 49,"Department of Post-War Reconstruction, Central Office",Department of State,"Australian Capital Territory, New South Wales",1942-12-22,1950-03-16,1942-12-22,1950-03-16
+CA 590,"Commonwealth Office of Education, Central Office",Head Office,New South Wales,1945-11-08,1967-12-31,1945-11-08,1967-12-31
+CA 591,"Commonwealth Office of Education, State Office, New South Wales",Regional or State Office,New South Wales,1957-12-31,,1957-12-31,1967-07-01
+CA 592,"Commonwealth Office of Education, State Office, Melbourne",Regional or State Office,Victoria,1947-07-01,1967-12-31,1947-07-01,1967-12-31
+CA 593,"Commonwealth Office of Education, State Office, Brisbane",Regional or State Office,Queensland,1947-07-01,1967-12-31,1947-07-01,1967-12-31
+CA 594,"Commonwealth Office of Education, Branch Office, Adelaide",Regional or State Office,South Australia,1947-07-01,1967-12-31,1947-07-01,1967-12-31
+CA 595,"Commonwealth Office of Education, State Office, Perth",Regional or State Office,Western Australia,1947-07-01,1967-12-31,1947-07-01,1967-12-31
+CA 596,"Commonwealth Office of Education, State Office, Hobart",Regional or State Office,Tasmania,1951-01-01,1967-12-31,1951-01-01,1967-12-31
+CA 651,Australian School of Pacific Administration,Regional or State Office,New South Wales,1946-01-01,1973-12-01,1946-01-01,1973-12-01
+CA 685,"International Training Centre, Canberra",Regional or State Office,Australian Capital Territory,1961-01-01,1969-12-31,1961-01-01,1969-12-31
+CA 1192,"Education Division, Prime Minister's Department",Regional or State Office,Australian Capital Territory,1964-01-01,1966-12-13,1964-01-01,1966-12-31
+CA 1196,"Department of Education and Science, Central Office",Department of State,Australian Capital Territory,1966-12-13,1972-12-19,1966-12-13,1972-12-19
+CA 1238,Education Department,Intergovernmental agency,Northern Territory,1913-04-01,1928-04-01,1913-04-01,1928-04-01
+CA 1299,"Education Branch, Department of the Interior [II]",Head Office,Australian Capital Territory,1966-10-06,1968-04-18,1966-10-06,1968-04-18
+CA 1301,Education Branch,Head Office,Northern Territory,1928-08-01,1968-12-31,1928-08-01,1968-12-31
+CA 1302,"Department of Education and Science, Northern Territory Office",Regional or State Office,Northern Territory,1968-01-01,1971-12-31,1968-01-01,1971-12-31
+CA 1478,"Department of Education [I], Central Office",Department of State,Australian Capital Territory,1972-12-19,1983-03-11,1972-12-19,1983-03-11
+CA 1545,"Department of Education and Science, State Office, Hobart",Regional or State Office,Tasmania,1966-12-31,1972-12-19,1967-01-01,1972-12-19
+CA 1546,"Department of Education [I], Branch Office, Tasmania",Regional or State Office,Tasmania,1972-12-19,1983-03-11,1972-12-19,1983-03-11
+CA 1604,"Department of Education and Science, State Office, New South Wales",Regional or State Office,New South Wales,,1972-12-19,1967-01-01,1972-12-19
+CA 1605,"Department of Education [I], Branch Office, New South Wales",Regional or State Office,New South Wales,1972-12-19,1983-03-11,1972-12-19,1983-03-11
+CA 1750,"Department of Education, State Office, Western Australia",Regional or State Office,Western Australia,1972-12-19,1983-03-11,1972-12-19,1983-03-11
+CA 1751,"Department of Education and Science, State Office, Perth",Regional or State Office,Western Australia,1967-01-01,1972-12-19,1967-01-01,1972-12-19
+CA 1784,"Department of Education and Science, State Office, Victoria",Regional or State Office,Victoria,1967-01-01,1972-12-19,1967-01-01,1972-12-19
+CA 1785,"Department of Education [I], State Office, Victoria",Regional or State Office,Victoria,1972-12-19,1983-03-11,1972-12-19,1983-03-11
+CA 1815,"Services Canteens Trust Fund, Central Office",Head Office,Victoria,1947-06-20,,1947-06-20,1986-12-31
+CA 1936,"Senate Standing Committee on Education, Science and the Arts",Head Office,Australian Capital Territory,1971-04-07,1976-03-02,1971-04-07,1976-03-02
+CA 1984,Office of the Minister of Justice and Education [I],Intergovernmental agency,South Australia,1874-07-01,1875-06-30,1874-07-01,1875-06-30
+CA 1985,Office of the Minister of Agriculture and Education [I],Intergovernmental agency,South Australia,1875-06-01,1876-03-31,1875-06-01,1876-03-31
+CA 1986,Office of the Minister of Education [I],Intergovernmental agency,South Australia,1876-03-01,1876-06-30,1876-03-01,1876-06-30
+CA 1987,Office of the Minister of Agriculture and Education [II],Intergovernmental agency,South Australia,1876-06-01,1877-10-31,1876-06-01,1877-10-31
+CA 1988,Office of the Minister of Education [II],Intergovernmental agency,South Australia,1877-10-01,1884-06-30,1877-10-01,1884-06-30
+CA 1989,Office of the Minister of Justice and Education [II],Intergovernmental agency,South Australia,1884-06-01,1885-06-30,1884-06-01,1885-06-30
+CA 1990,Office of the Minister of Education [III],Intergovernmental agency,South Australia,1885-06-01,1889-06-30,1885-06-01,1889-06-30
+CA 1991,Office of the Minister of Education and of the Northern Territory,Intergovernmental agency,South Australia,1889-06-01,1892-06-30,1889-06-01,1892-06-30
+CA 2143,Interim Committee for the Australian Schools Commission,Regional or State Office,Australian Capital Territory,1972-12-12,1973-12-19,1972-12-12,1973-12-19
+CA 2144,Commonwealth Schools Commission,Regional or State Office,Australian Capital Territory,1973-12-19,1987-11-30,1973-12-19,1987-11-30
+CA 2257,[Australian Capital Territory] Schools Authority,Regional or State Office,Australian Capital Territory,1977-01-01,,1977-01-01,
+CA 2303,"Department of Education [I], Branch Office, Queensland",Regional or State Office,Queensland,1972-12-19,1983-03-11,1972-12-19,1983-03-11
+CA 2306,"(1) Department of Education [I], State Office, South Australia [also (2) Schools Commission, Regional Office, South Australia, 1974-1976]",Regional or State Office,South Australia,1972-12-19,1983-03-11,1972-12-19,1983-03-11
+CA 2312,"Department of Education and Science, Regional Office, Adelaide (also known as South Australian Branch Office, 1967-1969)",Regional or State Office,South Australia,1967-01-01,1972-12-19,1967-01-01,1972-12-19
+CA 2314,"Department of Education and Science, State Office, Brisbane, Queensland",Regional or State Office,Queensland,1967-01-01,1972-12-19,1967-01-01,1972-12-19
+CA 2350,"Department of Education, Australian Capital Territory Branch Office (by 1976, also known as Australian Capital Territory Office)",Regional or State Office,Australian Capital Territory,1973-01-01,1987-12-31,1973-01-01,1987-12-31
+CA 2358,Commonwealth Teaching Service,Regional or State Office,Australian Capital Territory,1972-06-01,1989-05-11,1972-06-01,1989-05-11
+CA 2572,"Department of Education [I], Regional Office, Townsville (Queensland)",Local Office,Queensland,1974-01-01,1983-03-11,1974-01-01,1983-03-11
+CA 2592,"Northern Territory Education Branch [Darwin] 
+(a) Department of Education and Science, Central Office (until 1972)
+(b) Department of Education, Central Office",Head Office,Northern Territory,1971-01-01,1973-06-30,1971-01-01,1973-06-30
+CA 2601,"Department of Education, Regional Office, Alice Springs [Northern Territory]",Local Office,Northern Territory,1977-01-01,1979-07-01,1977-01-01,1979-07-01
+CA 2662,[Northern Territory] Department of Education,Intergovernmental agency,Northern Territory,1978-07-01,,1978-07-01,
+CA 2975,"Department of Education [I], Northern Territory Office",Regional or State Office,Northern Territory,1979-07-01,1983-03-11,1979-07-01,1983-03-11
+CA 2976,Committee of Inquiry into Education and Training,Head Office,Australian Capital Territory,1976-10-24,1979-03-22,1976-10-24,1979-03-22
+CA 2992,"Department of Education [I], Regional Office, Cairns [Queensland]",Local Office,Queensland,1974-01-01,1983-03-11,1974-01-01,1983-03-11
+CA 3008,"Schools Commission, Regional Office, South Australia/ (from 1982) Commonwealth Schools Commission, Regional Office, South Australia",Regional or State Office,South Australia,1976-10-01,1987-05-27,1976-10-01,1987-05-27
+CA 3289,Senate Standing Committee on Education and the Arts,Head Office,Australian Capital Territory,1976-03-02,1987-09-22,1976-03-02,1987-09-22
+CA 3406,"Schools Commission, State Office, Victoria",Regional or State Office,Victoria,1973-12-19,,1973-12-19,1987-07-01
+CA 3494,"Department of Education and Youth Affairs, Central Office",Department of State,Australian Capital Territory,1983-03-11,1984-12-13,1983-03-11,1984-12-13
+CA 3513,"Department of Education and Youth Affairs, State Office, Queensland",Regional or State Office,Queensland,1983-03-11,1984-12-13,1983-03-11,1984-12-13
+CA 3514,"Department of Education and Youth Affairs, Regional Office, Townsville [Queensland]",Regional or State Office,Queensland,1983-03-11,1984-12-13,1983-03-11,1984-12-13
+CA 3515,"Department of Education and Youth Affairs, Regional Office, Cairns [Queensland]",Regional or State Office,Queensland,1983-03-11,1984-12-13,1983-03-11,1984-12-13
+CA 3516,"Department of Education and Youth Affairs, South Australian State Office",Regional or State Office,South Australia,1983-03-11,1984-12-13,1983-03-11,1984-12-13
+CA 3546,"Department of Education and Youth Affairs, State Office, Western Australia",Regional or State Office,Western Australia,1983-03-11,1984-12-13,1983-03-11,1984-12-13
+CA 3550,"Commonwealth Schools Commission, State Office, Tasmania",Regional or State Office,Tasmania,1974-01-01,1987-05-31,1974-01-01,1987-05-31
+CA 3559,"Schools Commission/ (from 1981) Commonwealth Schools Commission, State Office, New South Wales",Regional or State Office,New South Wales,,,1974-06-05,1987-08-18
+CA 3577,"Department of Education and Youth Affairs, Northern Territory Office",Regional or State Office,Northern Territory,1983-03-11,1984-12-13,1983-03-11,1984-12-13
+CA 3666,"Schools Commission, Queensland",Regional or State Office,Queensland,1975-01-01,1987-05-29,1975-01-01,1975-05-29
+CA 3726,"Soldiers' Children Education Board, New South Wales",Regional or State Office,New South Wales,,1986-05-22,1921-12-10,1986-05-22
+CA 3876,"Department of Education and Youth Affairs, State Office, New South Wales",Regional or State Office,New South Wales,1983-03-11,1984-12-13,1983-03-11,1984-12-13
+CA 3883,"Department of Education and Youth Affairs, Branch Office, Tasmania",Regional or State Office,Tasmania,1983-03-11,1984-12-13,1983-03-11,1984-12-13
+CA 3972,"Department of Education and Youth Affairs, State Office, Victoria",Regional or State Office,Victoria,1983-03-11,1984-12-13,1983-03-11,1984-12-13
+CA 4134,"Department of Education [II], Central Office",Department of State,Australian Capital Territory,1984-12-13,1987-07-24,1984-12-13,1987-07-24
+CA 4143,"Department of Education [II], State Office, Queensland",Regional or State Office,Queensland,1984-12-13,1987-07-24,1984-12-13,1987-07-24
+CA 4167,"Schools Commission/ (from 1981) Commonwealth Schools Commission, Regional Office, Western Australia",Regional or State Office,Western Australia,1974-01-01,1987-05-29,1974-01-01,1987-05-29
+CA 4169,"Department of Education [II], State Office, Victoria",Regional or State Office,Victoria,1984-12-13,1987-07-24,1984-12-13,1987-07-24
+CA 4171,"Department of Education [II], South Australian State Office",Regional or State Office,South Australia,1984-12-13,1987-07-24,1984-12-13,1987-07-24
+CA 4175,"Department of Education [II], State Office, New South Wales",Regional or State Office,New South Wales,1984-12-13,1987-07-24,1984-12-13,1987-07-24
+CA 4180,"Department of Education [II], Regional Office, Western Australia",Regional or State Office,Western Australia,1984-12-13,1987-07-24,1984-12-13,1987-07-24
+CA 4218,"Department of Education [II], Townsville Office, Queensland",Regional or State Office,Queensland,1984-12-13,1987-07-24,1984-12-13,1987-07-24
+CA 4405,"Department of Education [II], Australian Capital Territory Regional Office",Regional or State Office,Australian Capital Territory,1984-12-13,1987-07-24,1984-12-13,1987-07-24
+CA 4628,"Department of Education [II], Cairns, Queensland",Regional or State Office,Queensland,1984-12-13,1987-07-24,1984-12-13,1987-07-24
+CA 4901,"Department of Education [II], Tasmanian Office",Regional or State Office,Tasmania,1984-12-13,1987-07-24,1984-12-13,1987-07-24
+CA 5097,"Department of Employment and Youth Affairs, Zone Office, Townsville/ (from 1982) ""...""/ (from 1987) Department of Employment, Education and Training, Zone Office, Townsville",Local Office,Queensland,1980-01-01,1990-01-31,1980-01-01,1990-01-31
+CA 5213,"Department of Education [II], Northern Territory Office",Regional or State Office,Northern Territory,1984-12-13,1987-07-24,1984-12-13,1987-07-24
+CA 5214,"Department of Education [II], Alice Springs [Northern Territory]",Local Office,Northern Territory,1987-01-01,1987-07-24,1987-01-01,1987-07-24
+CA 5215,"Department of Education [II], Katherine [Northern Territory]",Local Office,Northern Territory,1987-01-01,1987-07-24,1987-01-01,1987-07-24
+CA 5216,"Department of Education [II], Nhulunbuy [Northern Territory]",Local Office,Northern Territory,1987-01-01,,1987-01-01,1987-07-24
+CA 5217,"Commonwealth Schools Commission, Darwin [Northern Territory]",Regional or State Office,Northern Territory,1974-01-01,1987-11-30,1974-01-01,1987-11-30
+CA 5218,"Department of Education [II], Tennant Creek [Northern Territory]",Local Office,Northern Territory,1987-01-01,1987-07-24,1987-01-01,1987-07-24
+CA 5352,"Department of Education [II], Regional Office, Rockhampton [Queensland]",Local Office,Queensland,1984-12-13,1987-07-24,1984-12-13,1987-07-24
+CA 5557,"Department of Education and Youth Affairs, Australian Capital Territory Regional Office",Regional or State Office,Australian Capital Territory,1983-03-11,1984-12-13,1983-03-11,1984-12-13
+CA 5858,"Department of Employment, Education and Training, Queensland State Office",Regional or State Office,Queensland,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 5986,"Department of Employment, Education and Training, National Office",Department of State,Australian Capital Territory,1987-07-24,1996-03-11,1987-07-24,1996-03-11
+CA 6159,"Department of Employment, Education and Training, State Office, Tasmania [Employment and Training]",Regional or State Office,Tasmania,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6348,"Department of Employment, Education and Training, State Office [I], New South Wales",Regional or State Office,New South Wales,1987-07-24,1990-03-01,1987-07-24,1990-03-01
+CA 6351,"Department of Employment, Education and Training, Education Division, New South Wales",Regional or State Office,New South Wales,1987-07-24,1990-03-01,1987-07-24,1994-07-01
+CA 6594,"Department of Employment, Education and Training, South Australia State Office [Employment Division]",Regional or State Office,South Australia,1987-07-24,1989-12-31,1987-07-24,1989-12-31
+CA 6597,"Department of Employment, Education and Training, State Office, South Australia",Regional or State Office,South Australia,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6668,"Department of Employment, Education and Training, Education Division, Western Australia",Regional or State Office,Western Australia,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6670,"Department of Employment, Education and Training, Employment Division, Western Australian",Regional or State Office,Western Australia,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6682,"Department of Employment, Education and Training, ACT Regional Office",Regional or State Office,Australian Capital Territory,1987-07-24,1990-03-01,1987-07-24,1990-03-01
+CA 6704,"Senate Standing Committee on Employment, Education and Training",Head Office,Australian Capital Territory,1987-09-22,1994-10-10,1987-09-22,1994-10-10
+CA 6713,"Department of Employment, Education and Training, Central Office, Melbourne",Head Office,Victoria,1987-07-24,1989-01-28,1987-07-24,1989-01-28
+CA 6721,"Department of Employment, Education and Training, Victorian State Office (Education Division)",Regional or State Office,Victoria,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6743,"Department of Employment, Education and Training, State (Territory) Office, Northern Territory [Darwin]",Regional or State Office,Northern Territory,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6744,"Department of Employment, Education and Training, Alice Springs [Education component] [Northern Territory]",Local Office,Northern Territory,1987-07-24,1992-08-01,1987-07-24,1992-08-01
+CA 6745,"Department of Employment, Education and Training, Katherine [Education component] [Northern Territory]",Local Office,Northern Territory,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6746,"Department of Employment, Education and Training, Tennant Creek [Northern Territory]",Local Office,Northern Territory,1987-07-24,1992-08-01,1987-07-24,1992-08-01
+CA 6747,"Department of Employment, Education and Training, Nhulunbuy [Northern Territory]",Local Office,Northern Territory,1987-07-24,1992-08-01,1987-07-24,1992-08-01
+CA 6748,"Department of Employment, Education and Training, Jabiru [Employment and Training component]",Local Office,Northern Territory,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6787,"Department of Employment, Education and Training, State Office, Tasmania [Education Division]",Regional or State Office,Tasmania,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6846,"Department of Employment, Education and Training, South Brisbane Zone Office",Local Office,Queensland,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6857,"Department of Employment, Education and Training, Central Zone Office, Brisbane",Regional or State Office,Queensland,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6860,"Department of Employment, Education and Training, Central Queensland Zone Office",Regional or State Office,Queensland,1987-07-24,1990-01-31,1987-07-24,1990-01-31
+CA 6861,"Department of Employment, Education and Training, North Brisbane Zone Office",Local Office,Queensland,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6862,"Department of Employment, Education and Training, Western Zone Office, Queensland",Local Office,Queensland,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6931,"Department of Employment, Education and Training, Victorian State Office",Regional or State Office,Victoria,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6934,"House of Representatives Standing Committee on Employment, Education and Workplace Relations",Head Office,Australian Capital Territory,1987-09-24,2001-10-08,1987-09-24,2001-10-08
+CA 6959,National Office of Overseas Skills Recognition,Regional or State Office,Australian Capital Territory,1989-07-26,,1989-07-26,
+CA 7587,"Department of Employment, Education and Training, North Queensland Area Office, Townsville [Queensland]",Regional or State Office,Queensland,,1994-07-01,1990-01-31,1994-07-01
+CA 7635,"Department of Employment, Education and Training, North-West Queensland Regional Office, Townsville [Queensland]",Regional or State Office,Queensland,1990-10-01,1994-07-01,1990-10-01,1994-07-01
+CA 7637,"Department of Employment, Education and Training, Far North Queensland Regional Office, Cairns [Queensland]",Regional or State Office,Queensland,1990-05-31,1994-07-01,1990-05-31,1994-07-01
+CA 7638,"Department of Employment, Education and Training, Burdekin/Mackay Regional Office, Mackay [Queensland]",Regional or State Office,Queensland,1992-02-11,1994-07-01,1992-02-11,1994-07-01
+CA 7639,"Department of Employment, Education and Training, Torres Strait Regional Office, Thursday Island [Queensland]",Regional or State Office,Queensland,1991-01-31,1994-07-01,1991-01-31,1994-07-01
+CA 7697,"National Board of Employment, Education and Training",Head Office,Australian Capital Territory,1988-07-01,2000-03,1988-07-01,2000-03
+CA 7705,"Department of Employment, Education and Training, Western Sydney Area Office, Parramatta [New South Wales]",Local Office,New South Wales,1990-03-01,1994-07-01,1990-03-01,1994-07-01
+CA 7706,"Department of Employment, Education and Training, Hunter/Western Area Office, Newcastle [New South Wales]",Local Office,New South Wales,1990-03-01,1994-07-01,1990-03-01,1994-07-01
+CA 7707,"Department of Employment, Education and Training, Illawarra Tablelands Area Office, Wollongong [New South Wales]",Local Office,New South Wales,1990-03-01,1994-07-01,1990-03-01,1994-07-01
+CA 7708,"Department of Employment, Education and Training, Sydney Eastern Area Office, Haymarket [New South Wales]",Local Office,New South Wales,1990-03-01,1994-07-01,1990-03-01,1994-07-01
+CA 7709,"Department of Employment, Education and Training, South Western Sydney Area Office, Liverpool [New South Wales]",Local Office,New South Wales,1990-03-01,1994-07-01,1990-03-01,1994-07-01
+CA 7710,"Department of Employment, Education and Training, Northern NSW Area Office, Lismore [New South Wales]",Local Office,New South Wales,1990-03-01,1994-07-01,1990-03-01,1994-07-01
+CA 7711,"Department of Employment, Education and Training, State Office [II], Sydney [New South Wales]",Local Office,New South Wales,1990-03-01,1994-07-01,1990-03-01,1994-07-01
+CA 7721,"Department of Employment, Education and Training, ACT/Southern NSW Area Office, Canberra [ACT]",Regional or State Office,Australian Capital Territory,1990-03-01,1994-07-01,1990-03-01,1994-07-01
+CA 7755,"Department of Employment, Education and Training, Central Queensland Area Office, Rockhampton [Queensland]",Regional or State Office,Queensland,,1994-07-01,1990-01-31,1994-07-01
+CA 7756,"Aboriginal Employment and Education Development Unit/ (from Jul 1992) Aboriginal Education Development Unit/ (from Dec 1992) Aboriginal and Torres Strait Islander Education Unit, Rockhampton [Queensland]",Local Office,Queensland,,1998-04-30,1990-01-31,1998-04-30
+CA 7769,"Department of Employment, Education and Training, Area Central Office (Perth), Western Australia",Regional or State Office,Western Australia,1990-03-01,1994-07-01,1990-03-01,1994-07-01
+CA 7770,"Department of Employment, Education and Training, Area South Office, (Perth) Western Australia",Regional or State Office,Western Australia,1990-03-01,1994-07-01,1990-03-01,1994-07-01
+CA 7771,"Department of Employment, Education and Training, Area North Office (Broome), Western Australia",Regional or State Office,Western Australia,1990-03-01,1994-07-01,1990-03-01,1994-07-01
+CA 7891,"Ministerial Council on Education, Employment, Training and Youth Affairs",Intergovernmental agency,Victoria,1994-01-01,2009-07-01,1994-01-01,2009-07-01
+CA 7915,"Commonwealth Office of Education, Branch Office, Northern Territory",Regional or State Office,Northern Territory,1945-11-08,1967-12-31,1945-11-08,1967-12-31
+CA 7960,"Department of Employment, Education and Training, Area Office, South Australia North",Regional or State Office,South Australia,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7961,"Department of Employment, Education and Training, Area Office, South Australia South",Regional or State Office,South Australia,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7978,"Department of Employment, Education and Training, Area Office, Illawarra and Australian Capital Territory",Regional or State Office,New South Wales,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7979,"Department of Employment, Education and Training, Area Office, Western New South Wales",Regional or State Office,New South Wales,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7980,"Department of Employment, Education and Training, Area Office, Hunter/ Northern [New South Wales]",Regional or State Office,New South Wales,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7981,"Department of Employment, Education and Training, Area Office, Sydney City Eastern",Regional or State Office,New South Wales,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7982,"Department of Employment, Education and Training, Area Office, Western Sydney",Regional or State Office,New South Wales,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7983,"Department of Employment, Education and Training, Area Office, South Western Sydney",Regional or State Office,New South Wales,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7984,"Department of Employment, Education and Training, Area Office, Melbourne City West",Regional or State Office,Victoria,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7985,"Department of Employment, Education and Training, Area Office, Melbourne East",Regional or State Office,Victoria,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7986,"Department of Employment, Education and Training, Area Office, Victoria Country",Regional or State Office,Victoria,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7987,"Department of Employment, Education and Training, Area Office, Victoria South East",Regional or State Office,Victoria,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7988,"Department of Employment, Education and Training, Area Office, Tasmania",Regional or State Office,Tasmania,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7989,"Department of Employment, Education and Training, Area Office, Western Australia North",Regional or State Office,Western Australia,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7990,"Department of Employment, Education and Training, Area Office, Western Australia South",Regional or State Office,Western Australia,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7991,"Department of Employment, Education and Training, Area Office, Northern Australia",Regional or State Office,Northern Territory,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7992,"Department of Employment, Education and Training, Area Office, Queensland North, Townsville [Queensland]",Regional or State Office,Queensland,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7993,"Department of Employment, Education and Training, Area Office, Queensland Central",Regional or State Office,Queensland,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7994,"Department of Employment, Education and Training, Area Office, Coastal",Regional or State Office,"New South Wales, Queensland",1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8084,"Department of Employment, Education and Training, Katherine Regional Office, Katherine [Northern Territory]",Local Office,Northern Territory,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8085,"Department of Employment, Education and Training, Country Service Centre, Nhulunbuy [Northern Territory]",Local Office,Northern Territory,1992-08-01,1994-07-01,1992-08-01,1994-07-01
+CA 8086,"Department of Employment, Education and Training, East Arnhem Regional Office, Nhulunbuy [Northern Territory]",Local Office,Northern Territory,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8087,"Department of Employment, Education and Training, Country Service Centre, Tennant Creek [Northern Territory]",Local Office,Northern Territory,1992-08-01,1994-07-01,1992-08-01,1994-07-01
+CA 8088,"Department of Employment, Education and Training, Barkly Regional Office, Tennant Creek [Northern Territory]",Local Office,Northern Territory,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8089,"Department of Employment, Education and Training, Alice Springs Regional Office [Northern Territory]",Regional or State Office,Northern Territory,1992-08-01,1994-07-01,1992-08-01,1994-07-01
+CA 8090,"Department of Employment, Education and Training, Central Australia Regional Office, Alice Springs [Northern Territory]",Local Office,Northern Territory,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8091,"Department of Employment, Education and Training, Palmerston [Northern Territory]",Local Office,Northern Territory,1992-08-01,1994-07-01,1992-08-01,1994-07-01
+CA 8092,"Department of Employment, Education and Training, Darwin Regional Office",Regional or State Office,Northern Territory,1992-08-01,1996-03-11,1992-08-01,1996-03-11
+CA 8093,"Department of Employment, Education and Training, Casuarina [Northern Territory]",Local Office,Northern Territory,1992-08-01,1994-07-01,1992-08-01,1994-07-01
+CA 8094,"Department of Employment, Education and Training, Casuarina Regional Office, Casuarina [Northern Territory]",Local Office,Northern Territory,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8095,"Department of Employment, Education and Training, Darwin Region, Palmerston Branch Office [Northern Territory]",Local Office,Northern Territory,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8096,"Department of Employment, Education and Training, Far North West Regional Office, Broome [Western Australia]",Local Office,Western Australia,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8097,"Department of Employment, Education and Training, Far North West Region, Derby Branch Office [Western Australia]",Local Office,Western Australia,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8098,"Department of Employment, Education and Training, Far North West Region, Kununurra Branch Office [Western Australia]",Local Office,Western Australia,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8099,"Department of Employment, Education and Training, Far North West Region, Port Hedland Branch Office [Western Australia]",Local Office,Western Australia,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8100,"Department of Employment, Education and Training, Far North West Region, Karratha Branch Office [Western Australia]",Local Office,Western Australia,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8167,"Department of Employment, Education and Training, Central West Regional Office, Emerald [Queensland]",Regional or State Office,Queensland,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8168,"Department of Employment, Education and Training, Branch Office, Longreach [Queensland]",Local Office,Queensland,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8169,"Department of Employment, Education and Training, Far North Queensland Regional Office, Cairns [Queensland]",Regional or State Office,Queensland,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8170,"Department of Employment, Education and Training, Branch Office, Westcourt [Queensland]",Local Office,Queensland,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8171,"Department of Employment, Education and Training, Branch Office, Innisfail [Queensland]",Local Office,Queensland,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8172,"Department of Employment, Education and Training, Gladstone Regional Office, Gladstone [Queensland]",Regional or State Office,Queensland,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8173,"Department of Employment, Education and Training, Mount Isa Regional Office, Mount Isa [Queensland]",Regional or State Office,Queensland,1994-07-01,1998-04-30,1994-07-01,1998-04-30
+CA 8174,"Department of Employment, Education and Training, Mackay Regional Office, Mackay [Queensland]",Regional or State Office,Queensland,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8175,"Department of Employment, Education and Training, Branch Office, Cannonvale [Queensland]",Local Office,Queensland,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8177,"Department of Employment, Education and Training, Rockhampton Regional Office, Rockhampton [Queensland]",Regional or State Office,Queensland,1994-07-01,1998-04-30,1994-07-01,1998-04-30
+CA 8183,"Department of Employment, Education and Training, Tablelands Regional Office, Atherton [Queensland]",Regional or State Office,Queensland,1994-07-01,1998-04-30,1994-07-01,1998-04-30
+CA 8245,"Department of Employment, Education, Training and Youth Affairs, National Office",Department of State,Australian Capital Territory,1996-03-11,1998-10-21,1996-03-11,1998-10-21
+CA 8325,"Department of Employment, Education, Training and Youth Affairs, Area Office, Queensland Central",Regional or State Office,Queensland,1996-03-11,1997-07-01,1996-03-11,1997-07-01
+CA 8328,"Department of Employment, Education, Training and Youth Affairs, Area Office North, Western Australia",Local Office,Western Australia,1996-03-11,1996-08-05,1996-03-11,1996-08-05
+CA 8329,"Department of Employment, Education, Training and Youth Affairs, Area Office South, Western Australia",Local Office,Western Australia,1996-03-11,1996-08-05,1996-03-11,1996-08-05
+CA 8335,"Department of Employment, Education, Training and Youth Affairs, Area Office, Northern Australia",Regional or State Office,Northern Territory,1996-03-11,1998-10-21,1996-03-11,1998-10-21
+CA 8336,"Department of Employment, Education, Training and Youth Affairs, Area Office, Melbourne City West",Regional or State Office,Victoria,1996-03-11,1996-08-05,1996-03-11,1996-08-05
+CA 8337,"Department of Employment, Education, Training and Youth Affairs, Area Office, Melbourne East",Regional or State Office,Victoria,1996-03-11,1996-08-05,1996-03-11,1996-08-05
+CA 8338,"Department of Employment, Education, Training and Youth Affairs, Area Office, Victoria Country",Regional or State Office,Victoria,1996-03-11,1998-04-30,1996-03-11,1998-10-21
+CA 8339,"Department of Employment, Education, Training and Youth Affairs, Area Office, Area South East Victoria",Regional or State Office,Victoria,1996-03-11,1998-04-30,1996-03-11,1998-10-21
+CA 8340,"Department of Employment, Education, Training and Youth Affairs, Area Office North, South Australia",Regional or State Office,South Australia,1996-03-11,1996-08-05,1996-03-11,1996-08-05
+CA 8341,"Department of Employment, Education, Training and Youth Affairs, Area Office South, South Australia",Regional or State Office,South Australia,1996-03-11,1996-08-05,1996-03-11,1996-08-05
+CA 8346,"Department of Employment, Education, Training and Youth Affairs, Area Office, Area Western Australia",Local Office,Western Australia,1996-08-05,1998-04-30,1996-08-05,1998-04-30
+CA 8348,"Department of Employment, Education, Training and Youth Affairs, Area Office, Illawarra and Australian Capital Territory",Regional or State Office,New South Wales,1996-03-11,1998-04-30,1996-03-11,1998-04-30
+CA 8349,"Department of Employment, Education, Training and Youth Affairs, Area Office, Western New South Wales",Regional or State Office,New South Wales,1996-03-11,1998-04-30,1996-03-11,1998-04-30
+CA 8350,"Department of Employment, Education, Training and Youth Affairs, Area Office, Hunter/Northern [New South Wales]",Regional or State Office,New South Wales,1996-03-11,1998-04-30,1996-03-11,1998-04-30
+CA 8351,"Department of Employment, Education, Training and Youth Affairs, Area Office, Sydney City Eastern",Regional or State Office,New South Wales,1996-03-11,1996-08-05,1996-03-11,1996-08-05
+CA 8352,"Department of Employment, Education, Training and Youth Affairs, Area Office, Western Sydney",Regional or State Office,New South Wales,1996-03-11,1996-08-05,1996-03-11,1996-08-05
+CA 8353,"Department of Employment, Education, Training and Youth Affairs, Area Office, South Western Sydney",Regional or State Office,New South Wales,1996-03-11,1996-08-05,1996-03-11,1996-08-05
+CA 8359,"Department of Employment, Education, Training and Youth Affairs, Area Office, Area Melbourne North West",Regional or State Office,Victoria,1996-08-05,1998-04-30,1996-08-05,1998-10-21
+CA 8360,"Department of Employment, Education, Training and Youth Affairs, Area Office, Tasmania",Regional or State Office,Tasmania,1996-03-11,1997-12-31,1996-03-11,1997-12-31
+CA 8363,"Department of Employment, Education, Training and Youth Affairs, Area Office, Coastal",Regional or State Office,Queensland,1996-03-11,1997-07-01,1996-03-11,1997-07-01
+CA 8365,"Department of Employment, Education, Training and Youth Affairs, Area Office, Area South Australia",Regional or State Office,South Australia,1996-08-05,1998-04-30,1996-08-05,1998-04-30
+CA 8370,"Department of Employment, Education, Training and Youth Affairs, Area Office, Area Sydney Metropolitan South",Regional or State Office,New South Wales,1996-08-05,1998-04-30,1996-08-05,1998-04-30
+CA 8371,"Department of Employment, Education, Training and Youth Affairs, Area Office, Area Sydney West and North",Regional or State Office,New South Wales,1996-08-05,1998-04-30,1996-08-05,1998-04-30
+CA 8374,"Department of Employment, Education, Training and Youth Affairs, Area Office, Queensland North, Townsville [Queensland]",Regional or State Office,Queensland,1996-03-11,1998-04-30,1996-03-11,1998-10-21
+CA 8377,"Department of Employment, Education, Training and Youth Affairs, Kimberley Regional Office, Broome [Western Australia]",Regional or State Office,Northern Territory,1996-03-11,1998-04-30,1996-03-11,1998-04-30
+CA 8378,"Department of Employment, Education, Training and Youth Affairs, Derby Branch Office [Western Australia]",Local Office,Northern Territory,1996-03-11,1998-04-30,1996-03-11,1998-04-30
+CA 8379,"Department of Employment, Education, Training and Youth Affairs, Kununurra Branch Office [Western Australia]",Local Office,Northern Territory,1996-03-11,1998-04-30,1996-03-11,1998-04-30
+CA 8380,"Department of Employment Education, Training and Youth Affairs, Pilbara Regional Office, Port Hedland [Western Australia]",Regional or State Office,Northern Territory,1996-03-11,1998-10-21,1996-03-11,1998-10-21
+CA 8381,"Department of Employment, Education, Training and Youth Affairs, Karratha Branch Office [Western Australia]",Local Office,Northern Territory,1996-03-11,1998-04-30,1996-03-11,1998-04-30
+CA 8426,"Centrelink, National Office",Head Office,Australian Capital Territory,1997-07-01,,1997-07-01,
+CA 8428,"Centrelink, Area Office, Brisbane",Regional or State Office,Queensland,1997-07-01,,1997-07-01,
+CA 8430,"Centrelink, Area East Coast - Sydney, New South Wales",Regional or State Office,New South Wales,1997-07-01,,1997-07-01,
+CA 8431,"Centrelink, Area East Coast - Wollongong, New South Wales",Regional or State Office,New South Wales,1997-07-01,,1997-07-01,
+CA 8433,"Centrelink, Area Office Hunter, New South Wales",Regional or State Office,New South Wales,1997-07-01,,1997-07-01,
+CA 8434,"Centrelink, Area Office South Metropolitan, New South Wales",Regional or State Office,New South Wales,1997-07-01,,1997-07-01,
+CA 8435,"Centrelink, Area Office South West, New South Wales",Regional or State Office,New South Wales,1997-07-01,,1997-07-01,
+CA 8436,"Centrelink, Area Office West, New South Wales",Regional or State Office,New South Wales,1997-07-01,,1997-07-01,
+CA 8437,"Centrelink, Area Support Office, South Australia",Regional or State Office,South Australia,1997-07-01,,1997-07-01,
+CA 8439,"Department of Social Security, Area West Australia",Regional or State Office,Western Australia,1996-09-19,1997-07-01,1997-07-01,1997-07-01
+CA 8440,"Centrelink, Area Support Office, Western Australia",Regional or State Office,Western Australia,1997-07-01,,1997-07-01,
+CA 8441,"Centrelink, Area Office West, Victoria",Regional or State Office,Victoria,1997-07-01,,1997-07-01,
+CA 8442,"Centrelink, Area office South, Victoria",Regional or State Office,Victoria,1997-07-01,,1997-07-01,
+CA 8443,"Centrelink, Area Office North, Victoria",Regional or State Office,Victoria,1997-07-01,1999-05-31,1997-07-01,1999-05-31
+CA 8444,"Centrelink, Area office North-Central, Victoria",Regional or State Office,Victoria,1997-07-01,,1997-07-01,
+CA 8445,"Centrelink, Area Office, North Queensland",Regional or State Office,Queensland,1997-07-01,,1997-07-01,
+CA 8446,"Centrelink, Area Support Office, North Australia",Regional or State Office,Northern Territory,1997-07-01,,1997-07-01,
+CA 8447,"Centrelink, Area Office, Tasmania",Regional or State Office,Tasmania,1997-07-01,,1997-07-01,
+CA 8464,"Centrelink, Regional Office, Glenorchy [Tasmania]",Local Office,Tasmania,1997-07-01,,1997-07-01,
+CA 8465,"Centrelink, Regional Office, Bellerive [Tasmania]",Local Office,Tasmania,1997-07-01,,1997-07-01,
+CA 8466,"Centrelink, International Services, Hobart, Tasmania",Local Office,Tasmania,1997-07-01,,1997-07-01,
+CA 8467,"Centrelink, Regional Office, Hobart, Tasmania",Regional or State Office,Tasmania,1997-07-01,,1997-07-01,
+CA 8475,"Centrelink, Regional Office, Burnie, Tasmania",Local Office,Tasmania,1997-07-01,,1997-07-01,
+CA 8476,"Centrelink, Regional Office, Devonport, Tasmania",Local Office,Tasmania,1997-07-01,,1997-07-01,
+CA 8477,"Centrelink, Regional Office, Queenstown, Tasmania",Local Office,Tasmania,1997-07-01,,1997-07-01,
+CA 8483,"Centrelink, Area Office, Pacific Central",Regional or State Office,Queensland,1997-07-01,,1997-07-01,
+CA 8493,"Centrelink, Student Services, Tasmania",Regional or State Office,Tasmania,1997-07-01,,1997-07-01,
+CA 8504,"Department of Employment, Education, Training and Youth Affairs, New South Wales State Office",Regional or State Office,New South Wales,1997-07-01,1998-10-21,1997-07-01,1998-10-21
+CA 8505,"Department of Employment, Education, Training and Youth Affairs, Northern Territory State Office",Regional or State Office,Northern Territory,1997-07-01,1998-10-21,1997-07-01,1998-10-21
+CA 8507,"Department of Employment, Education, Training and Youth Affairs, South Australia State Office",Regional or State Office,South Australia,1997-07-01,1998-10-21,1997-07-01,1998-10-21
+CA 8508,"Department of Employment, Education, Training and Youth Affairs, Tasmania State Office",Regional or State Office,Tasmania,1997-07-01,1998-10-21,1997-07-01,1998-10-21
+CA 8509,"Department of Employment, Education, Training and Youth Affairs, Victoria State Office",Regional or State Office,Victoria,1997-07-01,1998-10-21,1997-07-01,1998-10-21
+CA 8510,"Department of Employment, Education, Training and Youth Affairs, Western Australia State Office",Regional or State Office,Western Australia,1997-07-01,1998-10-21,1997-07-01,1998-10-21
+CA 8531,"Ministerial Council on Vocational Education, Employment and Training",Intergovernmental agency,Victoria,1990-11-22,1994-01-01,1990-11-22,1994-01-01
+CA 8532,"Vocational Education, Employment and Training Advisory Committee",Intergovernmental agency,Victoria,1990-11-22,1994-01-01,1990-11-22,1994-01-01
+CA 8556,"Department of Employment, Education, Training and Youth Affairs, Queensland State Office",Regional or State Office,Queensland,1997-07-01,1998-10-21,1997-07-01,1998-10-21
+CA 8612,"Department of Education, Training and Youth Affairs, Central Office",Department of State,Australian Capital Territory,1998-10-21,2001-11-26,1998-10-21,2001-11-26
+CA 8627,"Department of Education, Training and Youth Affairs, Queensland State Office",Regional or State Office,Queensland,1998-10-21,2001-11-26,1998-10-21,2001-11-26
+CA 8631,"Department of Education, Training and Youth Affairs, Western
+Australia State Office",Regional or State Office,Western Australia,1998-10-21,2001-11-26,1998-10-21,2001-11-26
+CA 8632,"Department of Education, Training and Youth Affairs, New South Wales State Office",Regional or State Office,New South Wales,1998-10-21,2001-11-26,1998-10-21,2001-11-26
+CA 8634,"Department of Education, Training and Youth Affairs, Northern Territory Office",Regional or State Office,Northern Territory,1998-10-21,2001-11-26,1998-10-21,2001-11-26
+CA 8641,"Department of Education, Training and Youth Affairs, Victorian State Office",Regional or State Office,Victoria,1998-10-21,2001-11-26,1998-10-21,2001-11-26
+CA 8651,"Department of Education, Training and Youth Affairs, South Australian State Office",Regional or State Office,South Australia,1998-10-21,2001-11-26,1998-10-21,2001-11-26
+CA 8653,"Department of Education, Training and Youth Affairs, Tasmania State Office",Regional or State Office,Tasmania,1998-10-21,2001-11-26,1998-10-21,2001-11-26
+CA 8671,"Centrelink, Regional Office, Launceston [Tasmania]",Local Office,Tasmania,1997-07-01,,1997-07-01,
+CA 8674,"Senate References Committee on Employment, Workplace Relations, Small Business and Education",Head Office,Australian Capital Territory,1994-10-10,,1994-10-10,1998-11-11
+CA 8675,"Senate Legislation Committee on Employment, Workplace Relations, Small Business and Education",Head Office,Australian Capital Territory,1994-10-10,,1994-10-10,
+CA 8870,"Department of Education, Science and Training, Central Office",Department of State,Australian Capital Territory,2001-11-26,2007-12-03,2001-11-26,2007-12-03
+CA 8893,"Department of Education, Science and Training, Queensland State Office",Local Office,Queensland,2001-11-26,2007-12-03,2001-11-26,2007-12-03
+CA 8899,"Department of Education, Science and Training, South Australian State Office",Regional or State Office,South Australia,2001-11-26,2009-12-03,2001-11-26,2009-12-03
+CA 8911,"Department of Education, Science and Training, Victoria State Office",Regional or State Office,Victoria,2001-11-26,2007-12-03,2001-11-26,2007-12-03
+CA 8915,"Department of Education, Science and Training, Western Australia State Office",Local Office,Western Australia,2001-11-26,2007-12-03,2001-11-26,2007-12-03
+CA 8920,"Department of Education, Science and Training, New South Wales State Office",Regional or State Office,New South Wales,2001-11-26,2007-12-03,2001-11-26,2007-12-03
+CA 8931,"Department of Education, Science and Training, Northern Territory Office",Regional or State Office,Northern Territory,2001-11-26,2007-12-03,2001-11-26,2007-12-03
+CA 9003,House of Representatives Standing Committee on Education and Training,Local Office,Australian Capital Territory,2002-03-12,2004-08,2002-03-12,2004-08
+CA 9178,House of Representatives Standing Committee on Education and Training,Head Office,Australian Capital Territory,2004-11-18,,2004-11-18,
+CA 9185,"The Department of Education, Employment and Workplace Relations",Department of State,Australian Capital Territory,2007-12-03,2013-09-18,2007-12-03,2013-09-18
+CA 9208,"The Department of Education, Employment and Workplace Relations, Victoria State Office",Regional or State Office,Victoria,2007-12-03,2013-09-18,2007-12-03,2013-09-18
+CA 9212,"Department of Education, Employment and Workplace Relations, New South Wales state office",Regional or State Office,New South Wales,2007-12-03,2013-09-18,2007-12-03,2013-09-18
+CA 9271,"The Department of Education, Employment and Workplace Relations, Western Australia State Office",Regional or State Office,Western Australia,2007-12-03,2013-09-18,2007-12-03,2013-09-18
+CA 9336,"The Department of Education, Employment and Workplace Relations, Northern Territory Office",Regional or State Office,Northern Territory,2007-12-03,2013-09-18,2007-12-03,2013-09-18
+CA 9354,"The Department of Education, Employment and Workplace Relations, South Australia Office",Regional or State Office,South Australia,2007-12-03,2013-09-18,2007-12-03,2013-09-18
+CA 9362,"The Department of Education, Employment and Workplace Relations, Tasmania State Office",Regional or State Office,Tasmania,2007-12-03,2013-09-18,2007-12-03,2013-09-18
+CA 9366,Australian Learning and Teaching Council,Head Office,New South Wales,2004-08,,2004-08,
+CA 9415,"Department of Industry, Innovation, Climate Change, Science, Research and Tertiary Education, Central Office",Department of State,Australian Capital Territory,2013-03-25,2013-09-18,2013-03-25,2013-09-18
+CA 9432,"Department of Education [III], Central office",Department of State,Australian Capital Territory,2013-09-18,2014-12-23,2013-09-18,2014-12-23
+CA 9437,"Department of Industry [II], Central Office",Department of State,Australian Capital Territory,2013-09-18,2014-12-23,2013-09-18,2014-12-23
+CA 9500,"Ministerial Council for Education, Early Childhood Development and Youth Affairs",Intergovernmental agency,Victoria,2009-07-01,,2009-07-01,
+CA 9514,"Department of Education and Training, Central Office",Department of State,Australian Capital Territory,2014-12-23,,2014-12-23,
+CA 9516,"Department of Education and Training, State Office, South Australia",Regional or State Office,South Australia,2014-12-23,,2014-12-23,
+CA 9517,"Department of Education and Training, State Office, Queensland",Regional or State Office,Queensland,2014-12-23,,2014-12-23,
+CA 9518,"Department of Education and Training, State Office, Tasmania",Regional or State Office,Tasmania,2014-12-23,,2014-12-23,
+CA 9519,"Department of Education and Training, State Office, New South Wales",Regional or State Office,New South Wales,2014-12-23,,2014-12-23,
+CA 9520,"Department of Education and Training, State Office, Victoria",Regional or State Office,Victoria,2014-12-23,,2014-12-23,
+CA 9521,"Department of Education and Training, State Office, Western Australia",Regional or State Office,Western Australia,2014-12-23,,2014-12-23,
+CA 9522,"Department of Education and Training, State Office, Northern Territory",Regional or State Office,Northern Territory,2014-12-23,,2014-12-23,
