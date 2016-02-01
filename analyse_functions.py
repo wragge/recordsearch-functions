@@ -180,7 +180,6 @@ def write_csv(function=None):
                 'function_end'
                 ])
             for agency in func['agencies']:
-                print agency['title']
                 functions_csv.writerow([
                     agency['agency_id'],
                     agency['title'].replace(u'\u2013', '-'),
