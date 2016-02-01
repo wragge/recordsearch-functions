@@ -1,0 +1,417 @@
+agency_id,agency_title,agency_status,location,agency_start,agency_end,function_start,function_end
+CA 5,"Attorney-General's Department, Central Office",Department of State,Australian Capital Territory,1901-01-01,,1936-01-01,1947-12-31
+CA 16,Repatriation Department [I],Department of State,Australian Capital Territory,1917-09-28,1974-06-12,1947-03-12,1958-04-23
+CA 32,"Department of Social Services [I], Central Office",Department of State,"Australian Capital Territory, Victoria",1939-04-26,1972-12-19,1947-03-12,1950-11-16
+CA 49,"Department of Post-War Reconstruction, Central Office",Department of State,"Australian Capital Territory, New South Wales",1942-12-22,1950-03-16,1942-12-22,1950-03-16
+CA 54,Department of Supply and Development [II],Department of State,Victoria,1948-04-06,1950-03-16,1948-04-06,1950-03-16
+CA 63,"Department of Primary Industry [I], Central Office",Department of State,Australian Capital Territory,1956-01-11,1974-06-12,1959-04-30,1974-06-12
+CA 139,Civilian Requirements Board,Regional or State Office,New South Wales,1943-07-11,1946-03-26,1943-07-11,1946-03-26
+CA 161,National Register Board,Local Office,Victoria,1939-06-20,,1939-06-20,1947-12-11
+CA 172,Women's Employment Board,Regional or State Office,Victoria,1942-03-25,1944-10-11,1942-03-25,1944-10-11
+CA 174,Manpower Priorities Board,Regional or State Office,Victoria,1941-06-02,1942-02-16,1941-06-02,1942-02-16
+CA 276,Wheat Harvest Employment Commission,Head Office,Victoria,1942-10-23,,1942-10-23,1943-12-31
+CA 314,Reconstruction Demobilisation Committee/ (by 1945) Central Demobilisation Committee,Head Office,"Australian Capital Territory, Victoria",1943-03-01,1947-02-15,1943-03-01,1947-02-15
+CA 316,Central Hirings Committee,Local Office,Victoria,1942-09-01,1947-12-31,1942-09-01,1947-12-31
+CA 319,Commonwealth Committee of Advice on Manpower,Head Office,Victoria,1942-04-01,,1942-04-01,1947-07-31
+CA 357,Reconstruction Training Committee/ (by 1945) Central Reconstruction Training Committee,Head Office,"Australian Capital Territory, Victoria",1943-03-02,1963-12-13,1943-03-02,1963-12-13
+CA 389,Central Trades Committee,Head Office,Australian Capital Territory,1946-08-15,,1946-08-15,2011
+CA 392,Reconstruction Re-Employment Committee/ (by 1945) Central Re-Established and Re-Employment Committee,Head Office,Victoria,1943-04-14,1950-12-31,1943-04-14,1950-12-31
+CA 417,Central Dilution Committees,Head Office,Victoria,1941-01-01,1946-12-31,1941-01-01,1946-12-31
+CA 421,(Services) Man Power Committee,Local Office,Victoria,1938-09-16,1944-04-01,1938-09-16,1944-04-01
+CA 452,Day Baking Committee,Regional or State Office,Australian Capital Territory,1942-11-03,1943-06-30,1942-11-03,1943-06-30
+CA 533,"Directorate of Manpower, Central Office",Head Office,Australian Capital Territory,1942-01-19,1946-05-01,1942-01-19,1946-04-30
+CA 539,Directorate of Voluntary Service,Local Office,Australian Capital Territory,1943-06-01,1944-12-31,1943-06-01,1944-12-31
+CA 635,Trade Union Advisory Panel,Regional or State Office,Australian Capital Territory,1940-07-26,,1940-07-26,1942-08-13
+CA 680,Civil Aliens Corps,Regional or State Office,Victoria,1943-05-03,1945-09-20,1943-05-03,1945-09-20
+CA 681,Civil Constructional Corps,Regional or State Office,Victoria,1942-04-14,1946-07-01,1942-04-14,1946-07-01
+CA 719,Parliamentary Committee for the Survey of Manpower and Resources,,Australian Capital Territory,1941-02-14,1942-05-04,1941-02-14,1942-05-04
+CA 1196,"Department of Education and Science, Central Office",Department of State,Australian Capital Territory,1966-12-13,1972-12-19,1966-12-13,1972-12-19
+CA 1278,"Mercantile Marine Office/(by 1989) Marine Crews Office, Newcastle [New South Wales]",Local Office,New South Wales,1922-03-01,,1922-03-01,1994-06-30
+CA 1380,"Civilian Labour Office, RAAF Base, Butterworth",Regional or State Office,Australian Capital Territory,1958-06-26,1988-06-01,1958-06-26,1988-06-01
+CA 1480,"Department of Labour, Central Office",Department of State,Victoria,1972-12-19,1974-06-12,1972-12-19,1974-06-12
+CA 1581,"Department of Labour and National Service, Branch Office/ Regional Administration, Tasmania",Regional or State Office,Tasmania,1943-01-01,1972-12-19,1943-01-01,1972-12-19
+CA 1582,"Department of Labour, Regional Administration, Tasmania",Regional or State Office,Tasmania,1972-12-19,1974-06-12,1972-12-19,1974-06-12
+CA 1680,"Department of Labour, Regional Administration, New South Wales",Regional or State Office,New South Wales,1972-12-19,1974-06-12,1972-12-19,1974-06-12
+CA 1681,"Department of Labour and National Service, Branch Office/ Regional Administration, New South Wales",Regional or State Office,New South Wales,1943-01-01,1972-12-19,1943-01-01,1972-12-19
+CA 1760,"Department of Labour, Regional Administration, Western Australia",Regional or State Office,Western Australia,1972-12-19,1974-06-12,1972-12-19,1974-06-12
+CA 1764,"Waterside Employment Committee, Bunbury [Western Australia]",Local Office,Western Australia,1942-07-03,1949-07-18,1942-07-03,1949-07-18
+CA 1765,"Waterside Employment Committee, Fremantle [Western Australia]",Local Office,Western Australia,1942-06-11,1949-07-18,1942-06-11,1949-07-18
+CA 1766,"Waterside Employment Committee, Geraldton [Western Australia]",Local Office,Western Australia,1942-06-11,1949-07-18,1942-06-11,1949-07-18
+CA 1767,"Waterside Employment Committee, Albany [Western Australia]",Local Office,Western Australia,1942-06-11,1949-07-18,1942-06-11,1949-07-18
+CA 1769,"Department of Labor and Immigration, Central Office",Department of State,Victoria,1974-06-12,1975-12-22,1974-06-12,1975-12-22
+CA 1809,National Committee on Discrimination in Employment and Occupation,Head Office,Victoria,1974-03-01,1986-12-10,1974-03-01,1986-12-10
+CA 1826,National Training Council,Head Office,"Australian Capital Territory, Victoria",1973-01-01,1986-11-01,1973-01-01,1986-11-01
+CA 1967,"Department of Employment and Industrial Relations [I], Regional Administration, New South Wales",Regional or State Office,New South Wales,1975-12-22,1978-12-05,1975-12-22,1978-12-05
+CA 2043,"Employment Division [II], Department of Labour and National Service",Regional or State Office,"New South Wales, Victoria",1946-05-01,1953-03-01,1946-05-01,1953-03-01
+CA 2044,"Employment Division [I], Department of Labour and National Service",Regional or State Office,Victoria,1940-12-01,1942-01-19,1940-12-01,1942-01-31
+CA 2046,"Industrial Welfare Division, Central Office, Department of Labour and National Service",Head Office,Victoria,1941-01-01,1953-03-31,1941-01-01,1953-03-31
+CA 2090,"Department of Employment and Industrial Relations [I], Regional Administration, Victoria",Regional or State Office,Victoria,1975-12-22,1978-12-05,1975-12-22,1978-12-05
+CA 2150,"Department of Labour, Regional Administration, Queensland",Regional or State Office,Queensland,1972-12-19,1974-06-12,1972-12-19,1974-06-12
+CA 2211,"Department of Employment and Industrial Relations [I], Regional Administration, Brisbane, Queensland",Regional or State Office,Queensland,1975-12-22,1978-12-05,1975-12-22,1978-12-05
+CA 2322,"Labor Group, Department of Labor and Immigration, Regional Administration, Western Australia",Regional or State Office,Western Australia,1974-06-12,1975-12-22,1974-06-12,1975-12-22
+CA 2323,"Labor Group, Department of Labor and Immigration, Regional Administration, South Australia",Regional or State Office,South Australia,1974-06-12,1975-12-22,1974-06-12,1975-12-22
+CA 2324,"Department of Labour, Regional Administration, South Australia",Regional or State Office,South Australia,1972-12-19,1974-06-12,1972-12-19,1974-06-12
+CA 2331,"Department of Employment and Industrial Relations [I], Regional Administration, South Australia",Regional or State Office,South Australia,1975-12-22,1978-12-05,1975-12-22,1978-12-05
+CA 2416,Inquiry into Unemployment Benefit Policy and Administration,Head Office,Victoria,1977-04-15,1977-07-29,1977-04-15,1977-07-29
+CA 2425,"Department of Labour and National Service, Victorian Regional Office",Regional or State Office,Victoria,1953-03-01,1972-12-19,1953-03-01,1972-12-19
+CA 2746,"Department of Employment and Youth Affairs, Central Office, Canberra (also Melbourne, 1978-by 1981)",Department of State,"Australian Capital Territory, Victoria",1978-12-05,1982-05-07,1978-12-05,1982-05-07
+CA 2759,"Department of Employment and Youth Affairs, Regional Administration, Tasmania",Regional or State Office,Tasmania,1978-12-05,1982-05-07,1978-12-05,1982-05-07
+CA 2760,"Department of Employment and Youth Affairs, Regional Administration, South Australia",Regional or State Office,South Australia,1978-12-05,1982-05-07,1978-12-05,1982-05-07
+CA 2761,"Department of Employment and Youth Affairs, Regional Administration, Brisbane, Queensland",Regional or State Office,Queensland,1980-04-01,1982-05-07,1980-04-01,1982-05-07
+CA 2762,"Department of Employment and Youth Affairs, Regional Administration, Western Australia",Regional or State Office,Western Australia,1978-12-05,1982-05-07,1978-12-05,1982-05-07
+CA 2763,"Department of Employment and Youth Affairs, Regional Administration, Northern Territory",Regional or State Office,Northern Territory,1978-12-05,1982-05-07,1978-12-05,1982-05-07
+CA 2764,"Department of Employment and Youth Affairs, Regional Administration, New South Wales",Regional or State Office,New South Wales,1978-12-05,1982-05-07,1978-12-05,1982-05-07
+CA 2814,"Commonwealth Employment Service, Townsville [Queensland]",Local Office,Queensland,1946-01-01,1994-07-01,1946-01-01,1994-07-01
+CA 2895,"Department of Labour and National Service, Branch Office/Regional Administration, South Australia",Regional or State Office,South Australia,,1972-12-19,1941-06-01,1972-12-19
+CA 2967,"Employment Division [II], Branch Office, Victoria, Department of Labour and National Service",Regional or State Office,Victoria,1946-03-01,1953-03-31,1946-03-01,1953-03-31
+CA 3233,New South Wales Committee on Discrimination in Employment and Occupation,Regional or State Office,New South Wales,1973-05-23,1986-12-10,1973-05-23,1986-12-10
+CA 3245,"Mercantile Marine Office/(by 01 Jan 1989) Marine Crews Office, Sydney [New South Wales]",Regional or State Office,New South Wales,1922-03-01,1998-03-01,1922-03-01,1998-03-01
+CA 3264,"Department of Employment and Youth Affairs, Regional Administration, Victoria",Regional or State Office,Victoria,1978-12-05,1982-05-07,1978-12-05,1982-05-07
+CA 3296,South Yarra Work Preparation Centre [Victoria],Local Office,Victoria,1973-08-01,,1973-08-01,
+CA 3642,"Local Trades Committee/(from 1996) Trades Recognition Australia, New South Wales",Regional or State Office,New South Wales,1946-09-20,,1946-09-20,2011
+CA 3643,"Local Trades Committee, Western Australia",Regional or State Office,Western Australia,1946-08-15,1996-07-01,1946-08-15,1996-07-01
+CA 3644,"Local Trades Committee, Tasmania",Regional or State Office,Tasmania,1946-08-15,,1946-08-15,2011
+CA 3645,"Local Trades Committee, Victoria",Regional or State Office,Victoria,1946-08-15,,1946-08-15,2011
+CA 3646,"Local Trades Committees, South Australia",Regional or State Office,South Australia,1946-08-15,,1946-08-15,2011
+CA 3647,"Local Trades Committee, Queensland",Regional or State Office,Queensland,1946-08-15,,1946-08-15,2011
+CA 3884,"Mercantile Marine Office/ (by 1989) Marine Crews Office, Port Kembla [New South Wales]",Local Office,New South Wales,1922-07-01,,1922-07-01,1994-06-30
+CA 4001,"State Secretary, Women's Employment Board, New South Wales",Regional or State Office,New South Wales,1944-01-01,1944-10-11,1944-01-01,1944-10-11
+CA 4195,Tasmanian Committee on Discrimination in Employment and Occupation,Regional or State Office,Tasmania,1974-03-01,,1974-03-01,
+CA 4255,"Commonwealth Employment Service, Beverley [South Australia]",Local Office,South Australia,1979-01-01,1989-12-31,1979-01-01,1989-12-31
+CA 4256,"Commonwealth Employment Service, Ceduna [South Australia]",Local Office,South Australia,1982-01-01,1998-04-30,1982-01-01,1998-04-30
+CA 4257,"Commonwealth Employment Service, Croydon Park [South Australia]",Local Office,South Australia,1978-01-01,1998-04-30,1978-01-01,1998-04-30
+CA 4258,"Commonwealth Employment Service, Brighton [South Australia]",Local Office,South Australia,1981-01-01,1989-12-31,1981-01-01,1989-12-31
+CA 4259,"Commonwealth Employment Service, Gawler [South Australia]",Local Office,South Australia,1948-01-01,1998-04-30,1948-01-01,1998-04-30
+CA 4260,"Commonwealth Employment Service, Glenelg [South Australia]",Local Office,South Australia,1970-01-01,1998-04-30,1970-01-01,1998-04-30
+CA 4261,"Commonwealth Employment Service, Adelaide [South Australia]",Local Office,South Australia,1946-01-01,1998-04-30,1946-01-01,1998-04-30
+CA 4262,"Commonwealth Employment Service, King William Street [South Australia]",Local Office,South Australia,1980-01-01,1998-04-30,1980-01-01,1998-04-30
+CA 4263,"Commonwealth Employment Service, Mile End [South Australia]",Local Office,South Australia,1980-01-01,1998-04-30,1980-01-01,1998-04-30
+CA 4264,"Commonwealth Employment Service, Modbury [South Australia]",Local Office,South Australia,1983-01-01,1998-04-30,1983-01-01,1998-04-30
+CA 4265,"Commonwealth Employment Service, Morphett Vale [South Australia]",Local Office,South Australia,1974-01-01,1989-12-31,1974-01-01,1989-12-31
+CA 4266,"Commonwealth Employment Service, Mount Gambier [South Australia]",Local Office,South Australia,1948-01-01,1998-04-30,1948-01-01,1998-04-30
+CA 4267,"Commonwealth Employment Service, Salisbury [South Australia]",Local Office,South Australia,1977-01-01,1998-04-30,1977-01-01,1998-04-30
+CA 4268,"Commonwealth Employment Service, Whyalla [South Australia]",Local Office,South Australia,1966-01-01,1998-04-30,1966-01-01,1998-04-30
+CA 4269,"Commonwealth Employment Service, Edwardstown [South Australia]",Local Office,South Australia,1961-01-01,1998-04-30,1961-01-01,1998-04-30
+CA 4270,"Commonwealth Employment Service, Elizabeth [South Australia]",Local Office,South Australia,1961-01-01,1998-04-30,1961-01-01,1998-04-30
+CA 4271,"Commonwealth Employment Service, Campbelltown [South Australia]",Local Office,South Australia,1977-01-01,1987-12-31,1977-01-01,1987-12-31
+CA 4272,"Commonwealth Employment Service, Enfield [South Australia]",Local Office,South Australia,1964-01-01,1998-04-30,1964-01-01,1998-04-30
+CA 4273,"Commonwealth Employment Service, Murray Bridge [South Australia]",Local Office,South Australia,1948-01-01,1998-04-30,1948-01-01,1998-04-30
+CA 4274,"Commonwealth Employment Service, Noarlunga Centre [South Australia]",Local Office,South Australia,1980-01-01,1998-04-30,1980-01-01,1998-04-30
+CA 4275,"Commonwealth Employment Service, Norwood [South Australia]",Local Office,South Australia,1965-01-01,1998-04-30,1965-01-01,1998-04-30
+CA 4276,"Commonwealth Employment Service, Port Adelaide [South Australia]",Local Office,South Australia,1946-01-01,1998-04-30,1946-01-01,1998-04-30
+CA 4277,"Commonwealth Employment Service, Port Augusta [South Australia]",Local Office,South Australia,1948-01-01,1998-04-30,1948-01-01,1998-04-30
+CA 4278,"Commonwealth Employment Service, Port Lincoln [South Australia]",Local Office,South Australia,1948-01-01,1998-04-30,1948-01-01,1998-04-30
+CA 4279,"Commonwealth Employment Service, Port Pirie [South Australia]",Local Office,South Australia,1948-01-01,1998-04-30,1948-01-01,1998-04-30
+CA 4280,"Commonwealth Employment Service, Renmark [South Australia]",Local Office,South Australia,1957-01-01,1987-12-31,1957-01-01,1987-12-31
+CA 4281,"Commonwealth Employment Service, Unley [South Australia]",Local Office,South Australia,1967-01-01,1988-12-31,1967-01-01,1988-12-31
+CA 4282,"Commonwealth Employment Service, Northern Zone Office, South Australia (from 20 May 1992 Department of Employment, Education and Training, Area North Office)",Local Office,South Australia,1980-04-01,1994-07-01,1980-04-01,1994-07-01
+CA 4283,"Commonwealth Employment Service, Central Zone Office, South Australia",Head Office,South Australia,1980-04-01,1998-04-30,1980-04-01,1998-04-30
+CA 4284,"Commonwealth Employment Service, Southern Zone Office, South Australia",Local Office,South Australia,1980-04-01,1998-04-30,1980-04-01,1998-04-30
+CA 4547,Victorian Committee on Discrimination in Employment and Occupation,Regional or State Office,Victoria,1974-03-01,,1974-03-01,
+CA 4639,Queensland Committee on Discrimination in Employment and Occupation,Regional or State Office,Queensland,1973-06-01,1986-12-31,1973-06-01,1986-12-25
+CA 4704,"Deputy Director-General of Manpower, South Australia",Regional or State Office,South Australia,1942-01-01,,1942-01-01,1946-04-01
+CA 4715,South Australian Committee on Discrimination in Employment and Occupation,Regional or State Office,South Australia,1973-06-01,1988-02-29,1973-06-01,1988-02-29
+CA 4827,Western Australian Committee on Discrimination in Employment and Occupation,Regional or State Office,Western Australia,1973-01-01,1987-12-31,1973-01-01,1987-12-31
+CA 4961,Northern Territory Committee on Discrimination in Employment and Occupation/ and (by 1984) Sex Discrimination Enquiries Office,Head Office,Northern Territory,1979-01-01,1986-07-28,1979-01-01,1986-07-28
+CA 5002,"Commonwealth Employment Service, Ayr [Queensland]",Local Office,Queensland,1946-01-01,1994-07-01,1946-01-01,1994-07-01
+CA 5018,"Commonwealth Employment Service, Cairns [Queensland]",Local Office,Queensland,1946-01-01,1994-07-01,1946-01-01,1994-07-01
+CA 5019,"Commonwealth Employment Service, Westcourt [Queensland]",Local Office,Queensland,1985-06-13,1994-07-01,1985-06-13,1994-07-01
+CA 5020,"Commonwealth Employment Service, Atherton [Queensland]",Local Office,Queensland,,1994-07-01,1974-03-01,1994-07-01
+CA 5021,"Commonwealth Employment Service, Mareeba [Queensland]",Local Office,Queensland,1979-08-01,1994-07-01,1979-08-01,1994-07-01
+CA 5022,"Commonwealth Employment Service, Innisfail [Queensland]",Local Office,Queensland,1974-07-01,1994-07-01,1974-07-01,1990-09-06
+CA 5039,"Commonwealth Employment Service, Thursday Island [Queensland]",Local Office,Queensland,1984-10-24,1994-07-01,1984-10-24,1994-07-01
+CA 5054,"Commonwealth Employment Service, Mt Isa [Queensland]",Local Office,Queensland,1969-01-01,1994-07-01,1969-01-01,1994-07-01
+CA 5059,"Commonwealth Employment Service, Mackay [Queensland]",Local Office,Queensland,1958-01-01,1994-07-01,1958-01-01,1994-07-01
+CA 5087,"Commonwealth Employment Service, Aitkenvale [Queensland]",Local Office,Queensland,1979-02-05,1994-07-01,1979-02-05,1994-07-01
+CA 5096,"Commonwealth Employment Service, Ingham [Queensland]",Local Office,Queensland,1946-01-01,1994-07-01,1946-01-01,1994-07-01
+CA 5097,"Department of Employment and Youth Affairs, Zone Office, Townsville/ (from 1982) ""...""/ (from 1987) Department of Employment, Education and Training, Zone Office, Townsville",Local Office,Queensland,1980-01-01,1990-01-31,1980-01-01,1990-01-31
+CA 5170,"Commonwealth Employment Service, Warradale [South Australia]",Local Office,South Australia,1978-01-01,1980-12-31,1978-01-01,1980-12-31
+CA 5172,"District Employment Office, Barmera [South Australia]",Local Office,South Australia,1948-01-01,1957-01-01,1948-01-01,1956-12-31
+CA 5173,"District Employment Office, Clare [South Australia]",Local Office,South Australia,1948-01-01,1953-12-31,1948-01-01,1953-12-31
+CA 5174,"District Employment Office, Peterborough [South Australia]",Local Office,South Australia,1948-01-01,1953-12-31,1948-01-01,1953-12-31
+CA 5175,"District Employment Office, Victor Harbor [South Australia]",Local Office,South Australia,1948-01-01,1949-12-31,1948-01-01,1949-12-31
+CA 5176,"District Employment Office, Wallaroo [South Australia]",Local Office,South Australia,1948-01-01,1953-12-31,1948-01-01,1953-12-31
+CA 5177,"Commonwealth Employment Service, Woodside [South Australia]",Local Office,South Australia,1949-01-01,1950-12-31,1949-01-01,1950-12-31
+CA 5179,"Commonwealth Employment Service, Ingle Farm [South Australia]",Local Office,South Australia,1984-09-30,1990-08-31,1984-09-30,1990-08-31
+CA 5193,"Professional Employment Service, Adelaide [South Australia]",Local Office,South Australia,1984-02-01,,1984-02-01,1990-12-31
+CA 5222,"Local Trades Committee, Darwin",Local Office,Northern Territory,1987-01-01,,1987-01-01,2011
+CA 5223,"Commonwealth Employment Service, Palmerston [Northern Territory]",Local Office,Northern Territory,1987-01-01,1992-08-01,1987-01-01,1992-08-01
+CA 5224,"Commonwealth Employment Service, Darwin",Local Office,Northern Territory,1987-01-01,1992-08-01,1987-01-01,1992-08-01
+CA 5225,"Commonwealth Employment Service, Casuarina [Northern Territory]",Local Office,Northern Territory,1987-01-01,1992-08-01,1987-01-01,1992-08-01
+CA 5226,"Commonwealth Employment Service, Alice Springs [Northern Territory]",Local Office,Northern Territory,1987-01-01,1987-07-24,1987-01-01,1987-07-24
+CA 5227,"Commonwealth Employment Service, Katherine [Northern Territory]",Local Office,Northern Territory,1987-01-01,1987-07-24,1987-01-01,1987-07-24
+CA 5228,"Commonwealth Employment Service, Tennant Creek [Northern Territory]",Local Office,Northern Territory,1987-01-01,1987-07-24,1987-01-01,1987-07-24
+CA 5354,"Department of Employment and Industrial Relations [II], Central Zone Office, Brisbane [Queensland]",Regional or State Office,Queensland,1984-10-01,1987-07-24,1984-10-01,1987-07-24
+CA 5355,"Department of Employment and Industrial Relations [II], North Brisbane Zone Office [Queensland]",Local Office,Queensland,1982-05-07,1987-07-24,1982-05-07,1987-07-24
+CA 5356,"Department of Employment and Industrial Relations [II], South Brisbane Zone Office [Queensland]",Local Office,Queensland,1982-05-07,1987-07-24,1982-05-07,1987-07-24
+CA 5357,"Department of Employment and Industrial Relations [II], Ipswich Zone Office/ (from 1984) Western Zone Office [Queensland]",Local Office,Queensland,1982-05-07,1987-07-24,1982-05-07,1987-07-24
+CA 5358,"Commonwealth Employment Service, Alderley [Queensland]",Local Office,Queensland,1974-01-01,1994-08-15,1974-01-01,1994-08-15
+CA 5359,"Commonwealth Employment Service, Moorooka [Queensland]",Local Office,Queensland,1976-03-15,1998-04-30,1976-03-15,1998-04-30
+CA 5360,"Commonwealth Employment Service, Brisbane [Queensland]",Local Office,Queensland,1958-01-01,1998-04-30,1987-01-01,1998-04-30
+CA 5482,"Office of the Commissioner for Employees' Compensation, Victorian Branch Office",Regional or State Office,Victoria,,,1985-08-01,1988-06-30
+CA 5485,"Commonwealth Employment Service, Victoria, Northern Country Zone Office",Local Office,Victoria,1978-01-01,1994-06-30,1978-01-01,
+CA 5486,"Commonwealth Employment Service, Victoria, Western Country Zone Office",Local Office,Victoria,1978-01-01,1998-04-30,1978-01-01,1998-04-30
+CA 5487,"Commonwealth Employment Service, Victoria, South Eastern Zone Office",Local Office,Victoria,1978-01-01,1994-06-30,1978-01-01,
+CA 5488,"Commonwealth Employment Service, Victoria, Western Metropolitan Zone Office",Local Office,Victoria,1978-01-01,1994-06-30,1978-01-01,
+CA 5489,"Commonwealth Employment Service, Victoria, Eastern Zone Office",Local Office,Victoria,1978-01-01,1994-06-30,1978-01-01,
+CA 5490,"Commonwealth Employment Service, Victoria, Central Zone Office",Regional or State Office,Victoria,1978-01-01,1994-06-30,1978-01-01,
+CA 5491,"Commonwealth Employment Service, Victoria, Northern Metropolitan Zone Office.",Local Office,Victoria,1978-01-01,1994-06-30,1978-01-01,
+CA 5492,"Commonwealth Employment Service, Victoria, Southern Zone Office",Local Office,Victoria,1978-01-01,1994-06-30,1978-01-01,
+CA 5610,"Career Reference Centre, (from 1997) Career Information Centre, Perth, Western Australia",Local Office,Western Australia,1973-05-22,1998-04-30,1973-05-22,1998-04-30
+CA 5612,"Professional Employment Service, Western Australia",Regional or State Office,Western Australia,1983-01-01,1997-08-04,1983-01-01,1997-08-04
+CA 5613,"Commonwealth Employment Service, Central Northern Zone Office, Western Australia",Regional or State Office,Western Australia,1981-01-01,1990-03-01,1981-01-01,1990-03-01
+CA 5614,"Commonwealth Employment Service, Eastern Zone Office, Western Australia",Regional or State Office,Western Australia,1982-01-01,1990-03-01,1982-01-01,1990-03-01
+CA 5615,"Commonwealth Employment Service, Southern Zone Office , Western Australia",Regional or State Office,Western Australia,1981-01-01,1990-03-01,1981-01-01,1990-03-01
+CA 5616,"Commonwealth Employment Service, Booragoon Job Centre, Western Australia",Local Office,Western Australia,1985-01-01,1998-04-30,1985-01-01,1998-04-30
+CA 5617,"Commonwealth Employment Service, Cannington Job Centre, Western Australia",Local Office,Western Australia,1981-01-01,1998-04-30,1981-01-01,1998-04-30
+CA 5618,"Commonwealth Employment Service, Claremont Job Centre, Western Australia",Local Office,Western Australia,1983-01-01,1998-04-30,1983-01-01,1998-04-30
+CA 5619,"Commonwealth Employment Service, Fremantle Job Centre, Western Australia",Local Office,Western Australia,1985-01-01,1998-04-30,1985-01-01,1998-04-30
+CA 5620,"Commonwealth Employment Service, Gosnells Job Centre, Western Australia",Local Office,Western Australia,1980-01-01,1998-04-30,1980-01-01,1998-04-30
+CA 5621,"Commonwealth Employment Service, Balcatta Job Centre, Western Australia",Local Office,Western Australia,1983-01-01,1998-04-30,1983-01-01,1998-04-30
+CA 5622,"Commonwealth Employment Service, Innaloo Job Centre, Western Australia",Local Office,Western Australia,1980-01-01,1998-04-30,1980-01-01,1998-04-30
+CA 5623,"Commonwealth Employment Service, Kwinana Job Centre, Western Australia",Local Office,Western Australia,1984-01-01,1998-04-30,1984-01-01,1998-04-30
+CA 5624,"Commonwealth Employment Service, Midland Job Centre, Western Australia",Local Office,Western Australia,1983-01-01,1998-04-30,1983-01-01,1998-04-30
+CA 5625,"Commonwealth Employment Service, Mirrabooka Job Centre, Western Australia",Local Office,Western Australia,1979-01-01,1998-04-30,1979-01-01,1998-04-30
+CA 5626,"Commonwealth Employment Service, Morley Job Centre, Western Australia",Local Office,Western Australia,1982-01-01,1998-04-30,1982-01-01,1998-04-30
+CA 5627,"Commonwealth Employment Service, Mt Hawthorn Job Centre, Western Australia",Local Office,Western Australia,1986-01-01,1998-04-30,1986-01-01,1998-04-30
+CA 5628,"Commonwealth Employment Service, Perth Job Centre, Western Australia",Local Office,Western Australia,1977-01-01,1998-04-30,1977-01-01,1998-04-30
+CA 5629,"Commonwealth Employment Service, Rockingham Job Centre, Western Australia",Local Office,Western Australia,1983-01-01,1998-04-30,1983-01-01,1998-04-30
+CA 5630,"Commonwealth Employment Service, Victoria Park Job Centre, Western Australia",Local Office,Western Australia,1983-01-01,1998-04-30,1983-01-01,1998-04-30
+CA 5631,"Commonwealth Employment Service, City West Job Centre, Western Australia",Local Office,Western Australia,1982-01-01,1998-04-30,1982-01-01,1998-04-30
+CA 5632,"Commonwealth Employment Service, Warwick Job Centre, Western Australia",Local Office,Western Australia,1985-01-01,1988-08-31,1985-01-01,1988-08-31
+CA 5633,"Commonwealth Employment Service, Albany Job Centre, Western Australia",Local Office,Western Australia,1984-01-01,1998-04-30,1984-01-01,1998-04-30
+CA 5634,"Commonwealth Employment Service, Broome Job Centre, Western Australia",Local Office,Western Australia,1979-01-01,1998-04-30,1979-01-01,1998-04-30
+CA 5635,"Commonwealth Employment Service, Bunbury Job Centre, Western Australia",Local Office,Western Australia,1980-01-01,1998-04-30,1980-01-01,1998-04-30
+CA 5636,"Commonwealth Employment Service, Carnarvon Job Centre, Western Australia",Local Office,Western Australia,1985-01-01,1998-04-30,1985-01-01,1998-04-30
+CA 5637,"Commonwealth Employment Service, Collie Job Centre, Western Australia",Local Office,Western Australia,1983-01-01,1998-04-30,1983-01-01,1998-04-30
+CA 5638,"Commonwealth Employment Service, Esperance Job Centre, Western Australia",Local Office,Western Australia,1984-01-01,1998-04-30,1984-01-01,1998-04-30
+CA 5639,"Commonwealth Employment Service, Geraldton Job Centre, Western Australia",Local Office,Western Australia,1986-01-01,1998-04-30,1986-01-01,1998-04-30
+CA 5640,"Commonwealth Employment Service, Kalgoorlie Job Centre, Western Australia",Local Office,Western Australia,1976-01-01,1998-04-30,1976-01-01,1998-04-30
+CA 5641,"Commonwealth Employment Service, Karratha Job Centre, Western Australia",Local Office,Western Australia,1983-01-01,1998-04-30,1983-01-01,1998-04-30
+CA 5642,"Commonwealth Employment Service, Mandurah Job Centre, Western Australia",Local Office,Western Australia,1981-01-01,1998-04-30,1981-01-01,1998-04-30
+CA 5643,"Commonwealth Employment Service, Manjimup Job Centre, Western Australia",Local Office,Western Australia,1975-01-01,1998-04-30,1975-01-01,1998-04-30
+CA 5644,"Commonwealth Employment Service, Merredin Job Centre, Western Australia",Local Office,Western Australia,1974-01-01,1998-04-30,1974-01-01,1998-04-30
+CA 5645,"Commonwealth Employment Service, Northam Job Centre, Western Australia",Local Office,Western Australia,1985-01-01,1998-04-30,1985-01-01,1998-04-30
+CA 5646,"Commonwealth Employment Service, South Hedland Job Centre, Western Australia",Local Office,Western Australia,1980-01-01,1998-04-30,1980-01-01,1998-04-30
+CA 5649,"Higher Appointments Office/ (from 1967) Professional Employment Office, Western Australia",Regional or State Office,Western Australia,1946-01-01,1981-12-31,1946-01-01,1981-12-31
+CA 5651,"Commonwealth Employment Service, Chermside [Queensland]",Local Office,Queensland,1973-01-01,1998-05-01,1973-01-01,1998-05-01
+CA 5652,"Commonwealth Employment Service, Cleveland [Queensland]",Local Office,Queensland,1979-01-01,1998-04-30,1979-01-01,1998-04-30
+CA 5653,"Commonwealth Employment Service, Coorparoo [Queensland]",Local Office,Queensland,1977-10-31,,1977-10-31,1992-12-31
+CA 5654,"Commonwealth Employment Service, Fortitude Valley [Queensland]",Local Office,Queensland,1957-01-01,1998-04-30,1957-01-01,1998-04-30
+CA 5655,"Commonwealth Employment Service, Inala [Queensland]",Local Office,Queensland,1963-01-01,1998-04-30,1963-01-01,1998-04-30
+CA 5656,"Commonwealth Employment Service, Indooroopilly [Queensland]",Local Office,Queensland,1975-09-15,1998-04-30,1975-09-01,1998-04-30
+CA 5657,"Commonwealth Employment Service, Ipswich [Queensland]",Local Office,Queensland,,1998-04-30,1987-01-01,1998-04-30
+CA 5658,"Commonwealth Employment Service, Lutwyche [Queensland]",Local Office,Queensland,1984-12-10,,1984-12-10,1990-12-31
+CA 5659,"Commonwealth Employment Service, Milton [Queensland]",Local Office,Queensland,1985-04-29,1998-04-30,1985-04-29,1998-04-30
+CA 5660,"Commonwealth Employment Service, Mt Gravatt (Queensland)",Local Office,Queensland,1987-01-01,1998-04-30,1987-01-01,1998-04-30
+CA 5661,"Commonwealth Employment Service, Nundah [Queensland]",Local Office,Queensland,1987-01-01,1998-04-30,1987-01-01,1998-04-30
+CA 5662,"Commonwealth Employment Service, Redcliffe [Queensland]",Local Office,Queensland,1987-01-01,1998-04-30,1987-01-01,1998-04-30
+CA 5663,"Commonwealth Employment Service, South Brisbane [Queensland]",Local Office,Queensland,1987-01-01,1998-04-30,1987-01-01,1998-04-30
+CA 5664,"Commonwealth Employment Service, Strathpine [Queensland]",Local Office,Queensland,1987-01-01,1998-04-30,1987-01-01,1998-04-30
+CA 5665,"Commonwealth Employment Service, Underwood [Queensland]",Local Office,Queensland,1984-07-01,1998-04-30,1984-07-01,1998-04-30
+CA 5666,"Commonwealth Employment Service, Woodridge [Queensland]",Local Office,Queensland,1987-01-01,1998-04-30,1987-01-01,1998-04-30
+CA 5667,"Commonwealth Employment Service, Woolloongabba [Queensland]",Local Office,Queensland,1987-01-01,1998-04-30,1987-01-01,1998-04-30
+CA 5668,"Commonwealth Employment Service, Wynnum [Queensland]",Local Office,Queensland,1986-01-01,1998-04-30,1986-01-01,1998-04-30
+CA 5669,"Commonwealth Employment Service, Bundaberg [Queensland]",Local Office,Queensland,1946-07-01,1998-04-30,1946-07-01,1998-04-30
+CA 5670,"Commonwealth Employment Service, Caboolture [Queensland]",Local Office,Queensland,1989-02-20,1998-04-30,1989-02-20,1998-04-30
+CA 5671,"Commonwealth Employment Service, Charleville [Queensland]",Local Office,Queensland,1987-01-01,1998-04-30,1987-01-01,1998-04-30
+CA 5672,"Commonwealth Employment Service, Coolangatta [Queensland]",Local Office,Queensland,1987-01-01,1998-04-30,1987-01-01,1998-04-30
+CA 5673,"Commonwealth Employment Service, Dalby [Queensland]",Local Office,Queensland,1987-01-01,1998-04-30,1987-01-01,1998-04-30
+CA 5674,"Commonwealth Employment Service, Gladstone [Queensland]",Local Office,Queensland,1964-11-01,1994-07-01,1964-11-01,1994-07-01
+CA 5675,"Commonwealth Employment Service, Gympie [Queensland]",Local Office,Queensland,1987-01-01,1998-04-30,1987-01-01,1998-04-30
+CA 5676,"Commonwealth Employment Service, Longreach [Queensland]",Local Office,Queensland,1987-01-01,1994-07-01,1987-01-01,1994-07-01
+CA 5677,"Commonwealth Employment Service, Maroochydore [Queensland]",Local Office,Queensland,1987-01-01,1998-04-30,1987-01-01,1998-04-30
+CA 5678,"Commonwealth Employment Service, Maryborough [Queensland]",Local Office,Queensland,1987-01-01,1998-04-30,1987-01-01,1998-04-30
+CA 5679,"Commonwealth Employment Service, Mermaid Beach [Queensland]",Local Office,Queensland,1987-01-01,1998-04-30,1987-01-01,1998-04-30
+CA 5680,"Commonwealth Employment Service, Nambour [Queensland]",Local Office,Queensland,1987-01-01,1998-04-30,1987-01-01,1998-04-30
+CA 5681,"Commonwealth Employment Service, Rockhampton [Queensland]",Local Office,Queensland,1946-01-01,1994-07-01,1946-01-01,1994-07-01
+CA 5682,"Commonwealth Employment Service, Rockhampton North [Queensland]",Local Office,Queensland,1984-09-03,1993-07-01,1984-09-03,1993-07-01
+CA 5683,"Commonwealth Employment Service, Southport [Queensland]",Local Office,Queensland,1962-07-01,1998-04-30,1962-07-01,1998-04-30
+CA 5684,"Commonwealth Employment Service, Surfers Paradise [Queensland]",Local Office,Queensland,1984-07-01,1998-04-30,1984-07-01,1998-04-30
+CA 5685,"Commonwealth Employment Service, Toowoomba [Queensland]",Local Office,Queensland,1987-01-01,1998-04-30,1987-01-01,1998-04-30
+CA 5686,"Commonwealth Employment Service, Warwick [Queensland]",Local Office,Queensland,1987-01-01,1998-04-30,1987-01-01,1998-04-30
+CA 5687,"Career Reference Centre, Brisbane [Queensland]",Local Office,Queensland,1987-01-01,1998-04-30,1987-01-01,1998-04-30
+CA 5688,"Career Reference Centre, Surfers Paradise [Queensland]",Local Office,Queensland,1987-01-01,1998-04-30,1987-01-01,1998-04-30
+CA 5839,"Commonwealth Employment Service, Goodna, [Queensland]",Local Office,Queensland,1987-02-02,1998-05-01,1987-02-02,1998-05-01
+CA 5858,"Department of Employment, Education and Training, Queensland State Office",Regional or State Office,Queensland,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 5986,"Department of Employment, Education and Training, National Office",Department of State,Australian Capital Territory,1987-07-24,1996-03-11,1987-07-24,1996-03-11
+CA 6015,National Aboriginal Employment Development Committee,Head Office,Victoria,1978-01-01,,1978-01-01,
+CA 6159,"Department of Employment, Education and Training, State Office, Tasmania [Employment and Training]",Regional or State Office,Tasmania,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6348,"Department of Employment, Education and Training, State Office [I], New South Wales",Regional or State Office,New South Wales,1987-07-24,1990-03-01,1987-07-24,1990-03-01
+CA 6351,"Department of Employment, Education and Training, Education Division, New South Wales",Regional or State Office,New South Wales,1987-07-24,1990-03-01,1987-07-24,1994-07-01
+CA 6594,"Department of Employment, Education and Training, South Australia State Office [Employment Division]",Regional or State Office,South Australia,1987-07-24,1989-12-31,1987-07-24,1989-12-31
+CA 6595,"Professional Employment Office, Adelaide [South Australia]",Regional or State Office,South Australia,1975-01-01,1984-02-29,1975-01-01,1984-02-29
+CA 6597,"Department of Employment, Education and Training, State Office, South Australia",Regional or State Office,South Australia,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6668,"Department of Employment, Education and Training, Education Division, Western Australia",Regional or State Office,Western Australia,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6670,"Department of Employment, Education and Training, Employment Division, Western Australian",Regional or State Office,Western Australia,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6682,"Department of Employment, Education and Training, ACT Regional Office",Regional or State Office,Australian Capital Territory,1987-07-24,1990-03-01,1987-07-24,1990-03-01
+CA 6704,"Senate Standing Committee on Employment, Education and Training",Head Office,Australian Capital Territory,1987-09-22,1994-10-10,1987-09-22,1994-10-10
+CA 6713,"Department of Employment, Education and Training, Central Office, Melbourne",Head Office,Victoria,1987-07-24,1989-01-28,1987-07-24,1989-01-28
+CA 6721,"Department of Employment, Education and Training, Victorian State Office (Education Division)",Regional or State Office,Victoria,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6743,"Department of Employment, Education and Training, State (Territory) Office, Northern Territory [Darwin]",Regional or State Office,Northern Territory,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6744,"Department of Employment, Education and Training, Alice Springs [Education component] [Northern Territory]",Local Office,Northern Territory,1987-07-24,1992-08-01,1987-07-24,1992-08-01
+CA 6745,"Department of Employment, Education and Training, Katherine [Education component] [Northern Territory]",Local Office,Northern Territory,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6746,"Department of Employment, Education and Training, Tennant Creek [Northern Territory]",Local Office,Northern Territory,1987-07-24,1992-08-01,1987-07-24,1992-08-01
+CA 6747,"Department of Employment, Education and Training, Nhulunbuy [Northern Territory]",Local Office,Northern Territory,1987-07-24,1992-08-01,1987-07-24,1992-08-01
+CA 6748,"Department of Employment, Education and Training, Jabiru [Employment and Training component]",Local Office,Northern Territory,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6787,"Department of Employment, Education and Training, State Office, Tasmania [Education Division]",Regional or State Office,Tasmania,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6846,"Department of Employment, Education and Training, South Brisbane Zone Office",Local Office,Queensland,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6857,"Department of Employment, Education and Training, Central Zone Office, Brisbane",Regional or State Office,Queensland,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6860,"Department of Employment, Education and Training, Central Queensland Zone Office",Regional or State Office,Queensland,1987-07-24,1990-01-31,1987-07-24,1990-01-31
+CA 6861,"Department of Employment, Education and Training, North Brisbane Zone Office",Local Office,Queensland,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6862,"Department of Employment, Education and Training, Western Zone Office, Queensland",Local Office,Queensland,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6877,"Commonwealth Employment Service, Cannonvale [Queensland]",Local Office,Queensland,1984-07-01,1994-07-01,1984-07-01,1994-07-01
+CA 6904,"Commonwealth Employment Service, Kununurra Job Centre, Western Australia",Local Office,Western Australia,1988-07-07,1998-04-30,1988-07-07,1998-04-30
+CA 6931,"Department of Employment, Education and Training, Victorian State Office",Regional or State Office,Victoria,1987-07-24,1994-07-01,1987-07-24,1994-07-01
+CA 6934,"House of Representatives Standing Committee on Employment, Education and Workplace Relations",Head Office,Australian Capital Territory,1987-09-24,2001-10-08,1987-09-24,2001-10-08
+CA 6959,National Office of Overseas Skills Recognition,Regional or State Office,Australian Capital Territory,1989-07-26,,1989-07-26,
+CA 7587,"Department of Employment, Education and Training, North Queensland Area Office, Townsville [Queensland]",Regional or State Office,Queensland,,1994-07-01,1990-01-31,1994-07-01
+CA 7635,"Department of Employment, Education and Training, North-West Queensland Regional Office, Townsville [Queensland]",Regional or State Office,Queensland,1990-10-01,1994-07-01,1990-10-01,1994-07-01
+CA 7637,"Department of Employment, Education and Training, Far North Queensland Regional Office, Cairns [Queensland]",Regional or State Office,Queensland,1990-05-31,1994-07-01,1990-05-31,1994-07-01
+CA 7638,"Department of Employment, Education and Training, Burdekin/Mackay Regional Office, Mackay [Queensland]",Regional or State Office,Queensland,1992-02-11,1994-07-01,1992-02-11,1994-07-01
+CA 7639,"Department of Employment, Education and Training, Torres Strait Regional Office, Thursday Island [Queensland]",Regional or State Office,Queensland,1991-01-31,1994-07-01,1991-01-31,1994-07-01
+CA 7697,"National Board of Employment, Education and Training",Head Office,Australian Capital Territory,1988-07-01,2000-03,1988-07-01,2000-03
+CA 7705,"Department of Employment, Education and Training, Western Sydney Area Office, Parramatta [New South Wales]",Local Office,New South Wales,1990-03-01,1994-07-01,1990-03-01,1994-07-01
+CA 7706,"Department of Employment, Education and Training, Hunter/Western Area Office, Newcastle [New South Wales]",Local Office,New South Wales,1990-03-01,1994-07-01,1990-03-01,1994-07-01
+CA 7707,"Department of Employment, Education and Training, Illawarra Tablelands Area Office, Wollongong [New South Wales]",Local Office,New South Wales,1990-03-01,1994-07-01,1990-03-01,1994-07-01
+CA 7708,"Department of Employment, Education and Training, Sydney Eastern Area Office, Haymarket [New South Wales]",Local Office,New South Wales,1990-03-01,1994-07-01,1990-03-01,1994-07-01
+CA 7709,"Department of Employment, Education and Training, South Western Sydney Area Office, Liverpool [New South Wales]",Local Office,New South Wales,1990-03-01,1994-07-01,1990-03-01,1994-07-01
+CA 7710,"Department of Employment, Education and Training, Northern NSW Area Office, Lismore [New South Wales]",Local Office,New South Wales,1990-03-01,1994-07-01,1990-03-01,1994-07-01
+CA 7711,"Department of Employment, Education and Training, State Office [II], Sydney [New South Wales]",Local Office,New South Wales,1990-03-01,1994-07-01,1990-03-01,1994-07-01
+CA 7721,"Department of Employment, Education and Training, ACT/Southern NSW Area Office, Canberra [ACT]",Regional or State Office,Australian Capital Territory,1990-03-01,1994-07-01,1990-03-01,1994-07-01
+CA 7755,"Department of Employment, Education and Training, Central Queensland Area Office, Rockhampton [Queensland]",Regional or State Office,Queensland,,1994-07-01,1990-01-31,1994-07-01
+CA 7756,"Aboriginal Employment and Education Development Unit/ (from Jul 1992) Aboriginal Education Development Unit/ (from Dec 1992) Aboriginal and Torres Strait Islander Education Unit, Rockhampton [Queensland]",Local Office,Queensland,,1998-04-30,1990-01-31,1998-04-30
+CA 7769,"Department of Employment, Education and Training, Area Central Office (Perth), Western Australia",Regional or State Office,Western Australia,1990-03-01,1994-07-01,1990-03-01,1994-07-01
+CA 7770,"Department of Employment, Education and Training, Area South Office, (Perth) Western Australia",Regional or State Office,Western Australia,1990-03-01,1994-07-01,1990-03-01,1994-07-01
+CA 7771,"Department of Employment, Education and Training, Area North Office (Broome), Western Australia",Regional or State Office,Western Australia,1990-03-01,1994-07-01,1990-03-01,1994-07-01
+CA 7891,"Ministerial Council on Education, Employment, Training and Youth Affairs",Intergovernmental agency,Victoria,1994-01-01,2009-07-01,1994-01-01,2009-07-01
+CA 7899,[Northern Territory] The Office of the Commissioner for Public Employment,Head Office,Northern Territory,1979-01-01,,1979-01-01,
+CA 7960,"Department of Employment, Education and Training, Area Office, South Australia North",Regional or State Office,South Australia,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7961,"Department of Employment, Education and Training, Area Office, South Australia South",Regional or State Office,South Australia,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7978,"Department of Employment, Education and Training, Area Office, Illawarra and Australian Capital Territory",Regional or State Office,New South Wales,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7979,"Department of Employment, Education and Training, Area Office, Western New South Wales",Regional or State Office,New South Wales,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7980,"Department of Employment, Education and Training, Area Office, Hunter/ Northern [New South Wales]",Regional or State Office,New South Wales,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7981,"Department of Employment, Education and Training, Area Office, Sydney City Eastern",Regional or State Office,New South Wales,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7982,"Department of Employment, Education and Training, Area Office, Western Sydney",Regional or State Office,New South Wales,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7983,"Department of Employment, Education and Training, Area Office, South Western Sydney",Regional or State Office,New South Wales,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7984,"Department of Employment, Education and Training, Area Office, Melbourne City West",Regional or State Office,Victoria,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7985,"Department of Employment, Education and Training, Area Office, Melbourne East",Regional or State Office,Victoria,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7986,"Department of Employment, Education and Training, Area Office, Victoria Country",Regional or State Office,Victoria,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7987,"Department of Employment, Education and Training, Area Office, Victoria South East",Regional or State Office,Victoria,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7988,"Department of Employment, Education and Training, Area Office, Tasmania",Regional or State Office,Tasmania,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7989,"Department of Employment, Education and Training, Area Office, Western Australia North",Regional or State Office,Western Australia,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7990,"Department of Employment, Education and Training, Area Office, Western Australia South",Regional or State Office,Western Australia,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7991,"Department of Employment, Education and Training, Area Office, Northern Australia",Regional or State Office,Northern Territory,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7992,"Department of Employment, Education and Training, Area Office, Queensland North, Townsville [Queensland]",Regional or State Office,Queensland,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7993,"Department of Employment, Education and Training, Area Office, Queensland Central",Regional or State Office,Queensland,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7994,"Department of Employment, Education and Training, Area Office, Coastal",Regional or State Office,"New South Wales, Queensland",1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 7998,"Commonwealth Employment Service, Gosford [New South Wales]",Local Office,New South Wales,1974-01-01,1998-04-30,1974-01-01,1998-04-30
+CA 8012,"Commonwealth Employment Service, Mitchelton [Queensland]",Local Office,Queensland,1994-08-15,1998-04-30,1994-08-15,1998-04-30
+CA 8084,"Department of Employment, Education and Training, Katherine Regional Office, Katherine [Northern Territory]",Local Office,Northern Territory,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8085,"Department of Employment, Education and Training, Country Service Centre, Nhulunbuy [Northern Territory]",Local Office,Northern Territory,1992-08-01,1994-07-01,1992-08-01,1994-07-01
+CA 8086,"Department of Employment, Education and Training, East Arnhem Regional Office, Nhulunbuy [Northern Territory]",Local Office,Northern Territory,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8087,"Department of Employment, Education and Training, Country Service Centre, Tennant Creek [Northern Territory]",Local Office,Northern Territory,1992-08-01,1994-07-01,1992-08-01,1994-07-01
+CA 8088,"Department of Employment, Education and Training, Barkly Regional Office, Tennant Creek [Northern Territory]",Local Office,Northern Territory,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8089,"Department of Employment, Education and Training, Alice Springs Regional Office [Northern Territory]",Regional or State Office,Northern Territory,1992-08-01,1994-07-01,1992-08-01,1994-07-01
+CA 8090,"Department of Employment, Education and Training, Central Australia Regional Office, Alice Springs [Northern Territory]",Local Office,Northern Territory,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8091,"Department of Employment, Education and Training, Palmerston [Northern Territory]",Local Office,Northern Territory,1992-08-01,1994-07-01,1992-08-01,1994-07-01
+CA 8092,"Department of Employment, Education and Training, Darwin Regional Office",Regional or State Office,Northern Territory,1992-08-01,1996-03-11,1992-08-01,1996-03-11
+CA 8093,"Department of Employment, Education and Training, Casuarina [Northern Territory]",Local Office,Northern Territory,1992-08-01,1994-07-01,1992-08-01,1994-07-01
+CA 8094,"Department of Employment, Education and Training, Casuarina Regional Office, Casuarina [Northern Territory]",Local Office,Northern Territory,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8095,"Department of Employment, Education and Training, Darwin Region, Palmerston Branch Office [Northern Territory]",Local Office,Northern Territory,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8096,"Department of Employment, Education and Training, Far North West Regional Office, Broome [Western Australia]",Local Office,Western Australia,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8097,"Department of Employment, Education and Training, Far North West Region, Derby Branch Office [Western Australia]",Local Office,Western Australia,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8098,"Department of Employment, Education and Training, Far North West Region, Kununurra Branch Office [Western Australia]",Local Office,Western Australia,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8099,"Department of Employment, Education and Training, Far North West Region, Port Hedland Branch Office [Western Australia]",Local Office,Western Australia,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8100,"Department of Employment, Education and Training, Far North West Region, Karratha Branch Office [Western Australia]",Local Office,Western Australia,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8167,"Department of Employment, Education and Training, Central West Regional Office, Emerald [Queensland]",Regional or State Office,Queensland,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8168,"Department of Employment, Education and Training, Branch Office, Longreach [Queensland]",Local Office,Queensland,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8169,"Department of Employment, Education and Training, Far North Queensland Regional Office, Cairns [Queensland]",Regional or State Office,Queensland,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8170,"Department of Employment, Education and Training, Branch Office, Westcourt [Queensland]",Local Office,Queensland,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8171,"Department of Employment, Education and Training, Branch Office, Innisfail [Queensland]",Local Office,Queensland,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8172,"Department of Employment, Education and Training, Gladstone Regional Office, Gladstone [Queensland]",Regional or State Office,Queensland,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8173,"Department of Employment, Education and Training, Mount Isa Regional Office, Mount Isa [Queensland]",Regional or State Office,Queensland,1994-07-01,1998-04-30,1994-07-01,1998-04-30
+CA 8174,"Department of Employment, Education and Training, Mackay Regional Office, Mackay [Queensland]",Regional or State Office,Queensland,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8175,"Department of Employment, Education and Training, Branch Office, Cannonvale [Queensland]",Local Office,Queensland,1994-07-01,1996-03-11,1994-07-01,1996-03-11
+CA 8177,"Department of Employment, Education and Training, Rockhampton Regional Office, Rockhampton [Queensland]",Regional or State Office,Queensland,1994-07-01,1998-04-30,1994-07-01,1998-04-30
+CA 8183,"Department of Employment, Education and Training, Tablelands Regional Office, Atherton [Queensland]",Regional or State Office,Queensland,1994-07-01,1998-04-30,1994-07-01,1998-04-30
+CA 8226,"Department of Labour and National Service, Industrial Welfare Division, Sydney",Local Office,New South Wales,,,1941-01-01,1943-01-01
+CA 8245,"Department of Employment, Education, Training and Youth Affairs, National Office",Department of State,Australian Capital Territory,1996-03-11,1998-10-21,1996-03-11,1998-10-21
+CA 8283,"Industrial Relations Court of Australia, Victoria District Registry",Judicial Court or Tribunal,Victoria,1994-03-30,1997-05-26,1994-03-30,1997-05-23
+CA 8325,"Department of Employment, Education, Training and Youth Affairs, Area Office, Queensland Central",Regional or State Office,Queensland,1996-03-11,1997-07-01,1996-03-11,1997-07-01
+CA 8328,"Department of Employment, Education, Training and Youth Affairs, Area Office North, Western Australia",Local Office,Western Australia,1996-03-11,1996-08-05,1996-03-11,1996-08-05
+CA 8329,"Department of Employment, Education, Training and Youth Affairs, Area Office South, Western Australia",Local Office,Western Australia,1996-03-11,1996-08-05,1996-03-11,1996-08-05
+CA 8335,"Department of Employment, Education, Training and Youth Affairs, Area Office, Northern Australia",Regional or State Office,Northern Territory,1996-03-11,1998-10-21,1996-03-11,1998-10-21
+CA 8336,"Department of Employment, Education, Training and Youth Affairs, Area Office, Melbourne City West",Regional or State Office,Victoria,1996-03-11,1996-08-05,1996-03-11,1996-08-05
+CA 8337,"Department of Employment, Education, Training and Youth Affairs, Area Office, Melbourne East",Regional or State Office,Victoria,1996-03-11,1996-08-05,1996-03-11,1996-08-05
+CA 8338,"Department of Employment, Education, Training and Youth Affairs, Area Office, Victoria Country",Regional or State Office,Victoria,1996-03-11,1998-04-30,1996-03-11,1998-10-21
+CA 8339,"Department of Employment, Education, Training and Youth Affairs, Area Office, Area South East Victoria",Regional or State Office,Victoria,1996-03-11,1998-04-30,1996-03-11,1998-10-21
+CA 8340,"Department of Employment, Education, Training and Youth Affairs, Area Office North, South Australia",Regional or State Office,South Australia,1996-03-11,1996-08-05,1996-03-11,1996-08-05
+CA 8341,"Department of Employment, Education, Training and Youth Affairs, Area Office South, South Australia",Regional or State Office,South Australia,1996-03-11,1996-08-05,1996-03-11,1996-08-05
+CA 8346,"Department of Employment, Education, Training and Youth Affairs, Area Office, Area Western Australia",Local Office,Western Australia,1996-08-05,1998-04-30,1996-08-05,1998-04-30
+CA 8348,"Department of Employment, Education, Training and Youth Affairs, Area Office, Illawarra and Australian Capital Territory",Regional or State Office,New South Wales,1996-03-11,1998-04-30,1996-03-11,1998-04-30
+CA 8349,"Department of Employment, Education, Training and Youth Affairs, Area Office, Western New South Wales",Regional or State Office,New South Wales,1996-03-11,1998-04-30,1996-03-11,1998-04-30
+CA 8350,"Department of Employment, Education, Training and Youth Affairs, Area Office, Hunter/Northern [New South Wales]",Regional or State Office,New South Wales,1996-03-11,1998-04-30,1996-03-11,1998-04-30
+CA 8351,"Department of Employment, Education, Training and Youth Affairs, Area Office, Sydney City Eastern",Regional or State Office,New South Wales,1996-03-11,1996-08-05,1996-03-11,1996-08-05
+CA 8352,"Department of Employment, Education, Training and Youth Affairs, Area Office, Western Sydney",Regional or State Office,New South Wales,1996-03-11,1996-08-05,1996-03-11,1996-08-05
+CA 8353,"Department of Employment, Education, Training and Youth Affairs, Area Office, South Western Sydney",Regional or State Office,New South Wales,1996-03-11,1996-08-05,1996-03-11,1996-08-05
+CA 8359,"Department of Employment, Education, Training and Youth Affairs, Area Office, Area Melbourne North West",Regional or State Office,Victoria,1996-08-05,1998-04-30,1996-08-05,1998-10-21
+CA 8360,"Department of Employment, Education, Training and Youth Affairs, Area Office, Tasmania",Regional or State Office,Tasmania,1996-03-11,1997-12-31,1996-03-11,1997-12-31
+CA 8363,"Department of Employment, Education, Training and Youth Affairs, Area Office, Coastal",Regional or State Office,Queensland,1996-03-11,1997-07-01,1996-03-11,1997-07-01
+CA 8365,"Department of Employment, Education, Training and Youth Affairs, Area Office, Area South Australia",Regional or State Office,South Australia,1996-08-05,1998-04-30,1996-08-05,1998-04-30
+CA 8370,"Department of Employment, Education, Training and Youth Affairs, Area Office, Area Sydney Metropolitan South",Regional or State Office,New South Wales,1996-08-05,1998-04-30,1996-08-05,1998-04-30
+CA 8371,"Department of Employment, Education, Training and Youth Affairs, Area Office, Area Sydney West and North",Regional or State Office,New South Wales,1996-08-05,1998-04-30,1996-08-05,1998-04-30
+CA 8374,"Department of Employment, Education, Training and Youth Affairs, Area Office, Queensland North, Townsville [Queensland]",Regional or State Office,Queensland,1996-03-11,1998-04-30,1996-03-11,1998-10-21
+CA 8377,"Department of Employment, Education, Training and Youth Affairs, Kimberley Regional Office, Broome [Western Australia]",Regional or State Office,Northern Territory,1996-03-11,1998-04-30,1996-03-11,1998-04-30
+CA 8378,"Department of Employment, Education, Training and Youth Affairs, Derby Branch Office [Western Australia]",Local Office,Northern Territory,1996-03-11,1998-04-30,1996-03-11,1998-04-30
+CA 8379,"Department of Employment, Education, Training and Youth Affairs, Kununurra Branch Office [Western Australia]",Local Office,Northern Territory,1996-03-11,1998-04-30,1996-03-11,1998-04-30
+CA 8380,"Department of Employment Education, Training and Youth Affairs, Pilbara Regional Office, Port Hedland [Western Australia]",Regional or State Office,Northern Territory,1996-03-11,1998-10-21,1996-03-11,1998-10-21
+CA 8381,"Department of Employment, Education, Training and Youth Affairs, Karratha Branch Office [Western Australia]",Local Office,Northern Territory,1996-03-11,1998-04-30,1996-03-11,1998-04-30
+CA 8400,Employment Services Regulatory Authority,Head Office,Victoria,,,1994-12-01,2001-11-26
+CA 8504,"Department of Employment, Education, Training and Youth Affairs, New South Wales State Office",Regional or State Office,New South Wales,1997-07-01,1998-10-21,1997-07-01,1998-10-21
+CA 8505,"Department of Employment, Education, Training and Youth Affairs, Northern Territory State Office",Regional or State Office,Northern Territory,1997-07-01,1998-10-21,1997-07-01,1998-10-21
+CA 8507,"Department of Employment, Education, Training and Youth Affairs, South Australia State Office",Regional or State Office,South Australia,1997-07-01,1998-10-21,1997-07-01,1998-10-21
+CA 8508,"Department of Employment, Education, Training and Youth Affairs, Tasmania State Office",Regional or State Office,Tasmania,1997-07-01,1998-10-21,1997-07-01,1998-10-21
+CA 8509,"Department of Employment, Education, Training and Youth Affairs, Victoria State Office",Regional or State Office,Victoria,1997-07-01,1998-10-21,1997-07-01,1998-10-21
+CA 8510,"Department of Employment, Education, Training and Youth Affairs, Western Australia State Office",Regional or State Office,Western Australia,1997-07-01,1998-10-21,1997-07-01,1998-10-21
+CA 8531,"Ministerial Council on Vocational Education, Employment and Training",Intergovernmental agency,Victoria,1990-11-22,1994-01-01,1990-11-22,1994-01-01
+CA 8532,"Vocational Education, Employment and Training Advisory Committee",Intergovernmental agency,Victoria,1990-11-22,1994-01-01,1990-11-22,1994-01-01
+CA 8556,"Department of Employment, Education, Training and Youth Affairs, Queensland State Office",Regional or State Office,Queensland,1997-07-01,1998-10-21,1997-07-01,1998-10-21
+CA 8567,"Office of the Employment Advocate, Victorian Regional Office",Regional or State Office,Victoria,1997-07-18,2007-06-30,1997-07-18,2007-06-30
+CA 8568,"Employment National Limited, Head Office",Head Office,Australian Capital Territory,1997-08-04,,1997-08-04,
+CA 8613,"Department of Employment, Workplace Relations and Small Business, Central Office",Department of State,Australian Capital Territory,1998-10-21,2001-11-26,1998-10-21,2001-11-26
+CA 8674,"Senate References Committee on Employment, Workplace Relations, Small Business and Education",Head Office,Australian Capital Territory,1994-10-10,,1994-10-10,1998-11-11
+CA 8675,"Senate Legislation Committee on Employment, Workplace Relations, Small Business and Education",Head Office,Australian Capital Territory,1994-10-10,,1994-10-10,
+CA 8815,"Department of Employment, Workplace Relations and Small Business, Western Australian Regional Office",Regional or State Office,Western Australia,1998-10-21,2001-11-26,1998-10-21,2001-11-26
+CA 8869,"Department of Employment and Workplace Relations, Central Office",Department of State,Australian Capital Territory,2001-11-26,2007-12-03,2001-11-26,2007-12-03
+CA 8881,"Department of Employment and Workplace Relations, Victoria State Office",Regional or State Office,Victoria,2001-11-26,2007-12-03,2001-11-26,2007-12-03
+CA 8891,"Department of Employment and Workplace Relations, State Office, Queensland",Local Office,Queensland,2001-11-26,2007-12-03,2001-11-26,2007-12-03
+CA 8897,"Department of Employment and Workplace Relations,  South Australian Regional Office",Local Office,South Australia,2001-11-26,2007-12-03,2001-11-26,2007-12-03
+CA 8905,"Department of Employment and Workplace Relations, Tasmania State Office",Regional or State Office,Tasmania,2001-11-26,2007-12-03,2001-11-26,2007-12-03
+CA 8914,"Department of Employment and Workplace Relations, Western Australia State Office",Local Office,Western Australia,2001-11-26,2007-12-03,2001-11-26,2007-12-03
+CA 8921,"Department of Employment and Workplace Relations, New South Wales State Office",Regional or State Office,New South Wales,2001-11-26,2007-12-03,2001-11-26,2007-12-03
+CA 8932,"Department of Employment and Workplace Relations, Northern Territory Office",Regional or State Office,Northern Territory,2001-11-26,2007-12-03,2001-11-26,2007-12-03
+CA 9006,House of Representatives Standing Committee on Employment and Workplace Relations,Local Office,Australian Capital Territory,2002-02-20,,2002-02-20,
+CA 9018,"Office of the Employment Advocate, National Office",Head Office,New South Wales,1997-01-02,2007-06-30,1997-01-02,2007-06-30
+CA 9185,"The Department of Education, Employment and Workplace Relations",Department of State,Australian Capital Territory,2007-12-03,2013-09-18,2007-12-03,2013-09-18
+CA 9208,"The Department of Education, Employment and Workplace Relations, Victoria State Office",Regional or State Office,Victoria,2007-12-03,2013-09-18,2007-12-03,2013-09-18
+CA 9212,"Department of Education, Employment and Workplace Relations, New South Wales state office",Regional or State Office,New South Wales,2007-12-03,2013-09-18,2007-12-03,2013-09-18
+CA 9239,"Department of Education, Employment and Workplace Relations, State Office, Queensland",Local Office,Queensland,2007-12-03,2013-09-18,2007-12-03,2013-09-18
+CA 9271,"The Department of Education, Employment and Workplace Relations, Western Australia State Office",Regional or State Office,Western Australia,2007-12-03,2013-09-18,2007-12-03,2013-09-18
+CA 9294,"Fair Work Commission, Head Office",Head Office,Victoria,2009-07-01,,2009-07-01,
+CA 9311,"Fair Work Commission, Western Australia",Regional or State Office,Western Australia,2009-07-01,,2009-07-01,
+CA 9336,"The Department of Education, Employment and Workplace Relations, Northern Territory Office",Regional or State Office,Northern Territory,2007-12-03,2013-09-18,2007-12-03,2013-09-18
+CA 9354,"The Department of Education, Employment and Workplace Relations, South Australia Office",Regional or State Office,South Australia,2007-12-03,2013-09-18,2007-12-03,2013-09-18
+CA 9360,"Fair Work Commission, Tasmania",Regional or State Office,Tasmania,2009-07-01,,2009-07-01,
+CA 9362,"The Department of Education, Employment and Workplace Relations, Tasmania State Office",Regional or State Office,Tasmania,2007-12-03,2013-09-18,2007-12-03,2013-09-18
+CA 9401,Indigenous Business Australia (IBA),Head Office,Australian Capital Territory,1990-03,,1990-03,
+CA 9433,"Department of Employment, Central Office",Department of State,Australian Capital Territory,2013-09-18,,2013-09-18,
+CA 9459,"Department of Employment, State Office, Northern Territory",Regional or State Office,Northern Territory,2013-09-18,,2013-09-18,
+CA 9489,"Fair Work Commission, Australian Capital Territory",Regional or State Office,Australian Capital Territory,2009-07-01,,2009-07-01,
+CA 9490,"Fair Work Commission, Sydney",Regional or State Office,New South Wales,2009-07-01,,2009-07-01,
+CA 9491,"Fair Work Commission, Newcastle [NSW]",Regional or State Office,New South Wales,2009-07-01,,2009-07-01,
+CA 9492,"Fair Work Commission, Wollongong [NSW]",Regional or State Office,New South Wales,2009-07-01,,2009-07-01,
+CA 9493,"Fair Work Commission, Northern Territory",Regional or State Office,Northern Territory,2009-07-01,,2009-07-01,
+CA 9494,"Fair Work Commission, Queensland",Regional or State Office,Queensland,2009-07-01,,2009-07-01,
+CA 9495,"Fair Work Commission, South Australia",Regional or State Office,South Australia,2009-07-01,,2009-07-01,
+CA 9496,"Fair Work Commission, Victoria",Regional or State Office,Victoria,2009-07-01,,2009-07-01,
