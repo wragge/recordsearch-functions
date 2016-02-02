@@ -52,7 +52,7 @@ def plot_agencies(function, status):
             agency['function_end']['date'] = datetime.datetime.now()
         if not agency['end_date']['date']:
             agency['end_date']['date'] = datetime.datetime.now()
-        if agency['start_date']['date'] < agency['function_start']['date']:
+        if agency['start_date']['date'] and (agency['start_date']['date'] < agency['function_start']['date']):
             if agency_legend == False:
                 showlegend = True
                 agency_legend = True
@@ -81,7 +81,7 @@ def plot_agencies(function, status):
                 y = [index, index],
                 type='scatter',
                 name = 'Function dates',
-                text = '{}: {}'.format(agency['agency_id'], agency['title']),
+                text = '{}: {}'.format(agency['agency_id'], agency['title'].replace(u'\u2013', '-')),
                 mode = 'lines',
                 hoverinfo='x+text',
                 showlegend=function_legend,
@@ -120,7 +120,7 @@ def plot_agencies(function, status):
                     y = [index, index],
                     type='scatter',
                     name = 'Agency dates',
-                    text = '{}: {}'.format(agency['agency_id'], agency['title']),
+                    text = '{}: {}'.format(agency['agency_id'], agency['title'].replace(u'\u2013', '-')),
                     mode = 'lines',
                     showlegend=showlegend,
                     legendgroup='agency',
