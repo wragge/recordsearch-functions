@@ -36,6 +36,7 @@ def get_agencies(function, status):
     agencies = list(db.functions.aggregate(pipeline))[0]['agencies']
     return sorted(agencies, key=itemgetter('function_start'))
 
+
 def plot_agencies(function, status):
     agencies = get_agencies(function=function, status=status)
     traces = []
@@ -53,25 +54,25 @@ def plot_agencies(function, status):
         if not agency['end_date']['date']:
             agency['end_date']['date'] = datetime.datetime.now()
         if agency['start_date']['date'] and (agency['start_date']['date'] < agency['function_start']['date']):
-            if agency_legend == False:
+            if agency_legend is False:
                 showlegend = True
                 agency_legend = True
             else:
                 showlegend = False
             traces.append(
                 dict(
-                    x = [agency['start_date']['date'], agency['function_start']['date']],
-                    y = [index, index],
+                    x=[agency['start_date']['date'], agency['function_start']['date']],
+                    y=[index, index],
                     type='scatter',
-                    name = 'Agency dates',
-                    text = '{}: {}'.format(agency['agency_id'], agency['title']),
-                    mode = 'lines',
+                    name='Agency dates',
+                    text='{}: {}'.format(agency['agency_id'], agency['title']),
+                    mode='lines',
                     hoverinfo='x+text',
                     showlegend=showlegend,
                     legendgroup='agency',
-                    line = dict(
-                        color = ('rgb(214, 214, 214)'),
-                        width = 12
+                    line=dict(
+                        color=('rgb(214, 214, 214)'),
+                        width=12
                     )
                 )
             )
@@ -191,3 +192,64 @@ def write_csv(function=None):
                     convert_date_to_iso(agency['function_end'])
                     ])
 
+
+def write_agency_csv(function, agency):
+    dbclient = MongoClient(MONGOLAB_URL)
+    db = dbclient.get_default_database()
+    func = db.functions.find_one({'function': function})
+    for ag in func['agencies']:
+        if ag['agency_id'] == agency:
+            filename = 'data/{}-{}-{}-{}.csv'.format(func['function'].lower().replace(' ', '_'), agency.replace(' ', '_'), convert_date_to_iso(ag['function_start']), convert_date_to_iso(ag['function_end']))
+            with open(filename, 'wb') as agency_file:
+                agency_csv = csv.writer(agency_file)
+                agency_csv.writerow([
+                    'series_id',
+                    'series_title',
+                    'number_described',
+                    'number_digitised'
+                ])
+                for series in ag['series']:
+                    agency_csv.writerow([
+                        series['series_id'],
+                        series['title'],
+                        series['items_described_in_period'],
+                        series['items_digitised_in_period']
+                    ])
+
+
+def summarise_agency(function, agency):
+    dbclient = MongoClient(MONGOLAB_URL)
+    db = dbclient.get_default_database()
+    func = db.functions.find_one({'function': function})
+    for ag in func['agencies']:
+        if ag['agency_id'] == agency:
+            agency_title = ag['title']
+            function_start = convert_date_to_iso(ag['function_start'])
+            function_end = convert_date_to_iso(ag['function_end'])
+            total_series = len(ag['series'])
+            total_described = 0
+            total_digitised = 0
+            total_undescribed = 0
+            quantity_undescribed = 0
+            quantity_described = 0
+            for series in ag['series']:
+                total_described += series['items_described_in_period']
+                total_digitised += series['items_digitised_in_period']
+                se = db.series.find_one({'identifier': series['series_id']})
+                quantity = 0
+                if 'locations' in se:
+                    for location in se['locations']:
+                        if 'quantity' in location:
+                            quantity += location['quantity']
+                if series['items_described'] == 0:
+                    total_undescribed += 1
+                    quantity_undescribed += quantity
+                else:
+                    quantity_described += quantity
+    print 'Agency: {}, {}'.format(agency, agency_title)
+    print 'Function: {} from {} to {}'.format(function, function_start, function_end)
+    print 'Total series: {}'.format(total_series)
+    print 'Items described: {}'.format(total_described)
+    print 'Items digitised: {} ({:.2f}%)'.format(total_digitised, (float(total_digitised)/total_described)*100)
+    print 'Series with no items described: {} ({:.2f}%)'.format(total_undescribed, (float(total_undescribed)/total_series)*100)
+    print 'Quantity undescribed: at least {} of {} metres ({:.2f}%)'.format(quantity_undescribed, quantity_described, (float(quantity_undescribed)/quantity_described)*100)
